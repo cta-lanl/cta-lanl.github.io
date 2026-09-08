@@ -1,3 +1,32 @@
+- bibcode: 2026NucFu..66h6004Y
+  title: Tritium production and processing systems for ST-E1
+  authors:
+  - Yildirim, E.
+  - Naish, J.
+  - Trueba, J.
+  - Levine, S.
+  - Kumar, A.
+  - Gohani, V. B.
+  author_count: 20
+  year: '2026'
+  journal: Nuclear Fusion
+  url: https://ui.adsabs.harvard.edu/abs/2026NucFu..66h6004Y/abstract
+
+- bibcode: 2026arXiv260806466A
+  title: 'AMReX-Astrophysics Microphysics: A set of microphysics routines for astrophysical simulation codes based on the
+    AMReX library'
+  authors:
+  - Astro Microphysics Team
+  - Bhargava, Khanak
+  - Bishop, Abigail
+  - Chen, Zhi
+  - Fan, Doreen
+  - Fields, Carl
+  author_count: 18
+  year: '2026'
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260806466A/abstract
+
 - bibcode: 2025JHEP...12..143T
   title: 'Erratum: Search for boosted diphoton resonances in the 10 to 70 GeV mass range using 138 fb<SUP>−1</SUP> of 13 TeV
     pp collisions with the ATLAS detector'
@@ -41,32 +70,3 @@
   year: '2025'
   journal: Journal of High Energy Physics
   url: https://ui.adsabs.harvard.edu/abs/2025JHEP...05..159T/abstract
-
-- bibcode: 2025zndo..14584895A
-  title: 'AMReX-Astro/Microphysics: Release 25.01'
-  authors:
-  - AMReX-Astro Microphysics Development Team
-  - Bishop, Abigail
-  - Fields, Carl E.
-  - Chen, Zhi
-  - Harpole, Alice
-  - Jacobs, Adam M.
-  author_count: 15
-  year: '2025'
-  journal: Zenodo
-  url: https://ui.adsabs.harvard.edu/abs/2025zndo..14584895A/abstract
-
-- bibcode: 2024NatSR..1411895B
-  title: Bioarchaeology aids the cultural understanding of six characters in search of their agency (Tarquinia, ninth─seventh
-    century BC, central Italy)
-  authors:
-  - Bagnasco, G.
-  - Marzullo, M.
-  - Cattaneo, C.
-  - Biehler-Gomez, L.
-  - Mazzarelli, D.
-  - Ricciardi, V.
-  author_count: 26
-  year: '2024'
-  journal: Scientific Reports
-  url: https://ui.adsabs.harvard.edu/abs/2024NatSR..1411895B/abstract

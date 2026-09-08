@@ -1,3 +1,30 @@
+- bibcode: 2026ApJ..1007...92H
+  title: Investigating the Periodic X-Ray Behaviour in the Eclipsing AGN NGC 6814
+  authors:
+  - Hodd, T. O.
+  - Gallo, L. C.
+  - Gonzalez, A. G.
+  - Miller, J. M.
+  - Rogantini, D.
+  author_count: 5
+  year: '2026'
+  journal: The Astrophysical Journal
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1007...92H/abstract
+
+- bibcode: 2026yCat..51700218M
+  title: 'VizieR Online Data Catalog: Radio light curve of WR112 from VLA &amp; ATCA (Monnier+, 2025)'
+  authors:
+  - Monnier, J. D.
+  - Han, Y.
+  - Corcoran, M. F.
+  - Bloot, S.
+  - Callingham, J. R.
+  - Danchi, W.
+  author_count: 20
+  year: '2026'
+  journal: VizieR Online Data Catalog
+  url: https://ui.adsabs.harvard.edu/abs/2026yCat..51700218M/abstract
+
 - bibcode: 2026ApJ..1003..193D
   title: Multigroup Thermal Radiation Transport with Tensor Trains
   authors:
@@ -25,20 +52,6 @@
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260608868K/abstract
 
-- bibcode: 2026ApJ..1002L..24R
-  title: Kilonovae and Long-duration Gamma-Ray Bursts
-  authors:
-  - Ristić, Marko
-  - Barker, Brandon L.
-  - Cupp, Samuel
-  - Gross, Axel
-  - Lloyd-Ronning, Nicole
-  - Korobkin, Oleg
-  author_count: 8
-  year: '2026'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1002L..24R/abstract
-
 - bibcode: 2026GeoRL..5320780W
   title: Prediction of Hydroclimatic Anomalies Using a New Isotope Precipitation Index
   authors:
@@ -52,17 +65,3 @@
   year: '2026'
   journal: Geophysical Research Letters
   url: https://ui.adsabs.harvard.edu/abs/2026GeoRL..5320780W/abstract
-
-- bibcode: 2026A&A...708A.130D
-  title: A highly ionised outflow in the X-ray binary 4U 1624─49 detected with XRISM
-  authors:
-  - Díaz Trigo, M.
-  - Caruso, E.
-  - Costantini, E.
-  - Dotani, T.
-  - Kohmura, T.
-  - Shidatsu, M.
-  author_count: 11
-  year: '2026'
-  journal: Astronomy and Astrophysics
-  url: https://ui.adsabs.harvard.edu/abs/2026A&A...708A.130D/abstract

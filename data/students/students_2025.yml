@@ -78,13 +78,13 @@
   focus: Star Formation, AGN
   card_image: /students/images/cta-default.jpg
 
-- slug: charles-gardner
+- slug: charlie-gardner
   university: Rice University
-  role: Graduate
+  role: PhD
   division: Theoretical
   group_code: T-2
-  focus: Planet formation, circumstellar and circumplanetary disks, planet formation
-  card_image: /students/images/cta-default.jpg
+  focus: Planet formation, circumstellar and circumplanetary disks
+  card_image: /students/images/2026/charlie-gardner.jpg
 
 - slug: trevor-gravely
   university: Vanderbilt University

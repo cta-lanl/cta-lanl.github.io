@@ -555,3 +555,29 @@
   ads: null
   bio: null
   interests: null
+
+- slug: martin-krivos
+  display_name: Martin Krivos
+  sort_key: krivos, martin
+  email: mkrivos@lanl.gov
+  photo: /postdocs/images/martin-krivos.jpg
+  scholar: https://scholar.google.com/citations?user=-n8KGwwAAAAJ&hl=cs&oi=ao
+  ads: null
+  bio: Martin is a postdoc in the Physics Division at LANL, developing agentic AI models for MCNP applications. He graduated
+    from Charles University, Prague, with a PhD in high-energy particle physics, where he was part of the heavy-ion group
+    at the ATLAS Experiment at CERN. In his free time, he works on stellar MHD simulations and thermonuclear burning.
+  interests:
+  - Stellar physics
+  - ML/AI
+  - scientific computing
+  - High-energy particle physics
+  focus: []
+  papers: []
+  university: Charles University, Prague
+  division: Physics Division
+  group_code: null
+  mentors: []
+  postdoc_start_year: '2023'
+  postdoc_end_year: null
+  year_joined: '2024'
+  recruiting_ok: true

@@ -1,23 +1,28 @@
 - slug: alejandro-cardenas-avendano
-  university: 
+  university: null
   role: Postdoc
   division: Computer, Computational & Statistical Sciences
   group_code: CCS-2
-  focus: 
-  card_image: "/postdocs/images/2024/alejandro-cardenas-avendano.jpg"
+  focus: null
+  card_image: /postdocs/images/2024/alejandro-cardenas-avendano.jpg
 
 - slug: shengqi-yang
-  university: 
+  university: null
   role: Postdoc
   division: Theoretical
   group_code: T-2
-  focus: 
-  card_image: "/postdocs/images/2024/shengqi-yang.jpg"
+  focus: null
+  card_image: /postdocs/images/2024/shengqi-yang.jpg
 
 - slug: makana-silva
-  university: 
+  university: null
   role: Postdoc
   division: Computing and Artificial Intelligence
   group_code: CAI-2
-  focus: 
-  card_image: "/postdocs/images/2024/makana-silva.jpg"
+  focus: null
+  card_image: /postdocs/images/2024/makana-silva.jpg
+
+- slug: martin-krivos
+  university: Charles University, Prague
+  division: Physics Division
+  card_image: /postdocs/images/2026/martin-krivos.jpg

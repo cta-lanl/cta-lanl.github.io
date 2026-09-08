@@ -1,3 +1,17 @@
+- bibcode: 2026AcAau.249..953Z
+  title: Numerical investigation of anchoring dynamics for stable attachment to rubble-pile asteroids
+  authors:
+  - Zhou, Shiming
+  - Yan, Shuo
+  - Zhang, He
+  - Zeng, Fuming
+  - Guo, Fan
+  - Ding, Jianzhong
+  author_count: 7
+  year: '2026'
+  journal: Acta Astronautica
+  url: https://ui.adsabs.harvard.edu/abs/2026AcAau.249..953Z/abstract
+
 - bibcode: 2026MolPE.22308650G
   title: Genomic insights into nematode microbiomes reveal novel endosymbionts Rickettsiella
   authors:
@@ -12,39 +26,37 @@
   journal: Molecular Phylogenetics and Evolution
   url: https://ui.adsabs.harvard.edu/abs/2026MolPE.22308650G/abstract
 
-- bibcode: 2026BBRC..82553990C
-  title: SIRT3-mediated deacetylation of ATP5A1 improves mitochondrial function to attenuate myocardial ischemia-reperfusion
-    injury
+- bibcode: 2026Txcn..28109203L
+  title: Corrigendum to 'Cyclosporine A protects against wasp venom-induced rhabdomyolysis in rats by inhibiting the CypD-mPTP
+    pathway' [Toxicon 281 (2026) 109187]
   authors:
-  - Chen, Yuanyuan
-  - Xin, Gaojie
-  - Zhang, Huiyu
-  - Cui, Xiaoshan
-  - Gao, Jiaming
-  - Liu, Zixin
-  author_count: 9
-  year: '2026'
-  journal: Biochemical and Biophysical Research Communications
-  url: https://ui.adsabs.harvard.edu/abs/2026BBRC..82553990C/abstract
-
-- bibcode: 2026SBiBi.21810144R
-  title: Benchmarking metabarcoding and metagenomics pipelines in taxonomic profiling for soil microbial eukaryotes
-  authors:
-  - Ren, Yincai
-  - Shen, Yujie
-  - Liu, Zhiyin
-  - Wang, Siqi
-  - Guo, Fan
-  - Wang, Xuan
+  - Li, S.
+  - Deng, F.
+  - Yang, C.
+  - Liu, S.
+  - Zhou, J.
+  - Guo, F.
   author_count: 8
   year: '2026'
-  journal: Soil Biology and Biochemistry
-  url: https://ui.adsabs.harvard.edu/abs/2026SBiBi.21810144R/abstract
+  journal: Toxicon
+  url: https://ui.adsabs.harvard.edu/abs/2026Txcn..28109203L/abstract
 
-- bibcode: 2026PhLB..87840497A
-  title: Search for long-lived particles using displaced vertices of oppositely charged leptons in <mml:math><mml:mrow><mml:mn>140</mml:mn><mml:mspace></mml:mspace><mml:mrow><mml:msup><mml:mtext>fb</mml:mtext><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mrow></mml:math>
-    of pp collisions at <mml:math><mml:mrow><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn></mml:mrow></mml:math>
-    TeV with the ATLAS detector
+- bibcode: 2026Rhizo..3901394G
+  title: Preservation methods affect community recovery in soil nematode metabarcoding
+  authors:
+  - Guo, Fan
+  - Li, Kemei
+  - Du, Hongrui
+  - Topalović, Olivera
+  - Li, Hongmei
+  - Qing, Xue
+  author_count: 6
+  year: '2026'
+  journal: Rhizosphere
+  url: https://ui.adsabs.harvard.edu/abs/2026Rhizo..3901394G/abstract
+
+- bibcode: 2026PhLB..88040748A
+  title: A search for lepton-flavour violating τ → 3μ decays with the ATLAS detector
   authors:
   - Aad, G.
   - Aakvaag, E.
@@ -52,23 +64,7 @@
   - Abdelhameed, S.
   - Abeling, K.
   - Abicht, N. J.
-  author_count: 2880
+  author_count: 2800
   year: '2026'
   journal: Physics Letters B
-  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..87840497A/abstract
-
-- bibcode: 2026PhLB..87840509A
-  title: Search for massive, long-lived particles in events with displaced vertices and displaced muons in pp collisions at
-    <mml:math><mml:mrow><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13.6</mml:mn></mml:mrow></mml:math>
-    TeV with the ATLAS experiment
-  authors:
-  - Aad, G.
-  - Aakvaag, E.
-  - Abbott, B.
-  - Abdelhameed, S.
-  - Abeling, K.
-  - Abicht, N. J.
-  author_count: 2793
-  year: '2026'
-  journal: Physics Letters B
-  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..87840509A/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040748A/abstract

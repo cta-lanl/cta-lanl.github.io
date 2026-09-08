@@ -1,3 +1,17 @@
+- bibcode: 2026PhLB..88040771A
+  title: Constraining Hamiltonians from chiral effective field theory with neutron-star data
+  authors:
+  - Armstrong, Cassandra L.
+  - Reed, Brendan T.
+  - Plohr, Tate
+  - Rose, Henrik
+  - De, Soumi
+  - Somasundaram, Rahul
+  author_count: 7
+  year: '2026'
+  journal: Physics Letters B
+  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040771A/abstract
+
 - bibcode: 2026CQGra..43e5015R
   title: Direct inference of nuclear equation-of-state parameters from gravitational-wave observations
   authors:
@@ -54,16 +68,3 @@
   year: '2025'
   journal: Nature Communications
   url: https://ui.adsabs.harvard.edu/abs/2025NatCo..16.9819S/abstract
-
-- bibcode: 2025PhRvL.135n2501A
-  title: 'Emulators for Scarce and Noisy Data: Application to Auxiliary-Field Diffusion Monte Carlo for Neutron Matter'
-  authors:
-  - Armstrong, Cassandra L.
-  - Giuliani, Pablo
-  - Godbey, Kyle
-  - Somasundaram, Rahul
-  - Tews, Ingo
-  author_count: 5
-  year: '2025'
-  journal: Physical Review Letters
-  url: https://ui.adsabs.harvard.edu/abs/2025PhRvL.135n2501A/abstract

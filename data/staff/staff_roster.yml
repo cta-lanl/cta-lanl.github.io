@@ -6,20 +6,76 @@
   - nucleosynthesis
   email: even@lanl.gov
   photo: /staff/images/wes-even.jpg
-  scholar: https://scholar.google.com/citations?user=BVH-rEQAAAAJ&hl=en&oi=ao
-  ads: https://ui.adsabs.harvard.edu/#search/fq=database%3A%20(astronomy%20or%20physics)&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20(astronomy%20or%20physics)&q=pubdate%3A%5B2000-01%20TO%209999-12%5D%20author%3A(%22Even%2C%20W%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  scholar: https://scholar.google.com/citations?user=BVH-rEQAAAAJ&hl=en
+  ads: https://ui.adsabs.harvard.edu/search/fq=database%3A%20(astronomy%20or%20physics)&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20(astronomy%20or%20physics)&p_=0&q=pubdate%3A%5B2000-01%20TO%209999-12%5D%20author%3A(%22Even%2C%20W%22)&sort=date%20desc%2C%20bibcode%20desc
   lanl_profile: http://www.lanl.gov/expertise/profiles/view/wesley-even
-  bio: null
+  bio: Wes Even serves as Center Lead for the Center for Scientific Computing at Los Alamos National Laboratory, where he
+    uses computer simulations to study the most spectacular explosions in the universe. After earning his Ph.D. in Physics
+    from Louisiana State University in 2010, his research has focused on understanding what happens when stars collide, explode,
+    or merge—events that can briefly outshine entire galaxies and forge the heavy elements that make up planets and life itself.
+    His work spans the full lifecycle of these cosmic explosions, from modeling how light escapes from supernovae to predicting
+    what telescopes should see when neutron stars spiral together and collide (like the famous gravitational wave event GW170817).
+    Using sophisticated numerical simulations that combine radiation transport, hydrodynamics, and nuclear physics, he investigates
+    fundamental questions about stellar evolution and the origins of elements in the universe.  He has previously served as
+    a group manager in LANL’s Theoretical and Computing & Artificial Intelligence Divisions.
   interests:
   - Transient light curves
   - Compact mergers
   - Supernovae
   - Nucleosynthesis
-  leadership: Director
+  leadership: null
   university: Louisiana State University
-  role: Group Leader
+  role: Manager
   division: Theoretical
-  focus: null
+  focus:
+  - Supernova
+  - Compact Objects
+  - Mergers
+  - Multi-Messenger Astrophysics
+  papers:
+  - title: 'Swift and NuSTAR observations of GW170817: Detection of a blue kilonova'
+    authors:
+    - Evans, P. A.
+    - Cenko, S. B.
+    - Kennea, J. A.
+    author_count: 59
+    year: 2017
+    journal: Science 358, 1565
+    url: https://www.science.org/doi/full/10.1126/science.aap9580
+  - title: Impact of ejecta morphology and composition on the electromagnetic signatures of neutron star mergers
+    authors:
+    - Wollaeger, Ryan T.
+    - Korobkin, Oleg
+    - Fontes, Christopher J.
+    - Rosswog, Stephan K.
+    - Even, Wesley P.
+    - Fryer, Christopher L.
+    - Sollerman, Jesper
+    - Hungerford, Aimee L.
+    - van Rossum, Daniel R.
+    - Wollaber, Allan B.
+    year: 2018
+    journal: Monthly Notices of the Royal Astronomical Society 478, 3298
+    url: https://arxiv.org/abs/1705.07084
+  - title: Composition Effects on Kilonova Spectra and Light Curves. I
+    authors:
+    - Even, Wesley
+    - Korobkin, Oleg
+    - Fryer, Christopher L.
+    - Fontes, Christopher J.
+    - Wollaeger, Ryan T.
+    - Hungerford, Aimee
+    - Lippuner, Jonas
+    - Miller, Jonah
+    - Mumpower, Matthew R.
+    - Misch, G. Wendell
+    year: 2020
+    journal: The Astrophysical Journal 899, 24
+    url: https://arxiv.org/abs/1904.13298
+  group_code: NSEC
+  accepting_students: 'Yes'
+  year_joined: '2010'
+  recruiting_ok: true
 
 - slug: alexander-kaltenborn
   display_name: Alexander Kaltenborn
@@ -46,37 +102,10 @@
   interests:
   - Compact binary mergers
   - National and International Security Policy
-  leadership: Coordinator
+  leadership: Deputy Director
   university: George Washington University
-  role: R&D Scientist
+  role: Scientist
   division: Theoretical
-  focus: null
-
-- slug: makana-silva
-  display_name: Makana Silva
-  sort_key: silva, makana
-  email: makanas@lanl.gov
-  photo: /staff/images/makana-silva.png
-  scholar: https://scholar.google.com/citations?hl=en&user=UbqEYOQAAAAJ
-  ads: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Silva%2C%20Makana%22%20%20aff%3A%22los%20alamos%22&sort=date%20desc%2C%20bibcode%20desc
-  bio: Makana Silva is a Native Hawaiian astrophysicist born and raised in Mākaha on the island of Oʻahu. He graduated with
-    his B.S in physics from the University of Hawaiʻi at Mānoa and his Ph.D in physics from The Ohio State University with
-    his advisor Christopher Hirata. He was a Director's Fellow at LANL studying gravity on various physical scales as well
-    as plasma physics across various energy scales. In parallel to his research, he is also on the Board of Directors and
-    Director of Mentorship for the Native Hawaiian non-profit organization ʻOhana Kilo Hōkū (OKH) aiding in the development
-    of community-based events where people can learn about the science of the stars from a Hawaiian culture and scientific
-    perspective. When he is not working, he enjoys lifting stones, logs, kegs, and other heavy and awkward objects.
-  interests:
-  - Extreme mass ratio inspirals
-  - Gravitational waveforms
-  - Resonance interactions
-  - Plasma physics
-  - Black holes
-  - High energy systems
-  leadership: Co-Coordinator
-  university: The Ohio State University
-  role: Postdoc
-  division: Computing and Artificial Intelligence
   focus: null
 
 - slug: nicole-lloyd-ronning
@@ -105,7 +134,7 @@
   - cosmological evolution of massive stars
   - black hole-disk systems
   leadership:
-  - Deputy Director
+  - Director
   - Outreach Coordinator
   university: Stanford University
   affiliation: University of New Mexico, Los Alamos
@@ -155,6 +184,7 @@
   accepting_students: Case-by-case
   year_joined: '2016'
   recruiting_ok: true
+  group_code: CAI-2
 
 - slug: rachel-smullen
   display_name: Rachel Smullen
@@ -208,8 +238,9 @@
   - radiation hydrodynamics
   group_code: T-CNLS
   accepting_students: Case-by-case
-  year_joined: Original founder (with Aimee), initially called the astrophysics initiative
+  year_joined: '2010'
   recruiting_ok: true
+  additional: 'Year joined, as submitted: Original founder (with Aimee), initially called the astrophysics initiative'
 
 - slug: josh-dolence
   display_name: Josh Dolence
@@ -230,7 +261,7 @@
   - Multiphysics Numerical Methods
   leadership: null
   university: University of Illinois at Urbana-Champaign
-  role: R&D Scientist
+  role: Scientist
   division: Computing and Artificial Intelligence
   focus: null
 
@@ -259,10 +290,11 @@
   role: Deputy Division Leader
   division: Computing and Artificial Intelligence
   focus: null
+  year_joined: '2010'
 
-- slug: denis-bowen
-  display_name: Denis Bowen
-  sort_key: bowen, denis
+- slug: dennis-bowen
+  display_name: Dennis Bowen
+  sort_key: bowen, dennis
   email: dbowen@lanl.gov
   scholar: null
   ads: null
@@ -273,7 +305,7 @@
   - Accretion disks
   leadership: null
   university: null
-  role: R&D Scientist
+  role: Scientist
   division: Computational Physics
   focus: null
 
@@ -292,7 +324,7 @@
   - Data analysis
   leadership: null
   university: Syracuse University
-  role: R&D Scientist
+  role: Scientist
   division: Theoretical
   focus: null
 
@@ -303,7 +335,7 @@
   - nucleosynthesis
   email: pedelmann@lanl.gov
   photo: /staff/images/philipp-edelmann.jpg
-  scholar: https://scholar.google.com/citations?hl=en&user=cRMDv1oAAAAJ
+  scholar: https://scholar.google.com/citations?user=cRMDv1oAAAAJ
   ads: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22edelmann%2C%20Philipp
   bio: My background is in computational stellar astrophysics. I have developed and worked on several codes for large scale
     simulations of the interiors of stars. I am one of the main developers of the SLH code, which was one of the first to
@@ -318,9 +350,13 @@
   - Numerical methods
   leadership: null
   university: Max-Planck-Institut für Astrophysik
-  role: R&D Scientist
+  role: Scientist
   division: Computing and Artificial Intelligence
   focus: null
+  group_code: CAI-1
+  accepting_students: Case-by-case
+  year_joined: '2020'
+  recruiting_ok: true
 
 - slug: erica-fogerty
   display_name: Erica Fogerty
@@ -337,7 +373,7 @@
   - HEDP
   leadership: null
   university: University of Rochester
-  role: R&D Scientist
+  role: Scientist
   division: Theoretical Design
   focus: null
 
@@ -361,7 +397,8 @@
   focus: null
   group_code: XCP-5
   accepting_students: Case-by-case
-  year_joined: from the beginning (year?)
+  year_joined: '2010'
+  additional: 'Year joined, as submitted: from the beginning (year?)'
 
 - slug: fan-guo
   display_name: Fan Guo
@@ -378,7 +415,7 @@
   - Wave and particle interaction
   leadership: null
   university: null
-  role: R&D Scientist
+  role: Scientist
   division: Theoretical
   focus: null
 
@@ -396,7 +433,7 @@
   - Stellar Pulsations
   leadership: null
   university: null
-  role: LANL Fellow
+  role: Fellow
   division: Theoretical Design
   focus: null
 
@@ -417,7 +454,7 @@
   - Heterogeneous computing
   leadership: null
   university: null
-  role: R&D Scientist
+  role: Scientist
   division: Computing and Artificial Intelligence
   focus: null
 
@@ -476,7 +513,7 @@
   - Stellar evolution
   leadership: null
   university: Keele University
-  role: R&D Scientist
+  role: Scientist
   division: Theoretical
   focus: null
 
@@ -498,7 +535,7 @@
   - General relativity
   leadership: null
   university: Louisiana State University
-  role: R&D Scientist
+  role: Scientist
   division: Theoretical
   focus: null
 
@@ -516,7 +553,7 @@
   - Code development
   leadership: null
   university: null
-  role: R&D Scientist
+  role: Scientist
   division: Computing and Artificial Intelligence
   focus: null
 
@@ -539,7 +576,7 @@
   - HPC
   leadership: null
   university: null
-  role: R&D Scientist
+  role: Scientist
   division: Computing and Artificial Intelligence
   focus: null
 
@@ -555,7 +592,7 @@
   - Type Ia supernovae
   leadership: null
   university: Stony Brook University
-  role: R&D Scientist
+  role: Scientist
   division: Computational Physics
   focus: null
 
@@ -593,7 +630,7 @@
   - Space weather
   leadership: null
   university: University of Michigan
-  role: R&D Scientist
+  role: Scientist
   division: Intelligence & Space Research
   focus: null
 
@@ -611,7 +648,7 @@
   - X-ray bursts
   leadership: null
   university: null
-  role: R&D Scientist
+  role: Scientist
   division: Computational Physics
   focus: null
 
@@ -691,31 +728,6 @@
   additional: Based at Michigan SPARC in Ann Arbor
   recruiting_ok: true
 
-- slug: matthew-mumpower
-  display_name: Matthew Mumpower
-  sort_key: mumpower, matthew
-  research_groups:
-  - nucleosynthesis
-  email: mumpower@lanl.gov
-  photo: /staff/images/matthew-mumpower.jpg
-  scholar: https://scholar.google.com/citations?user=wYeD79MAAAAJ&hl=en
-  ads: https://ui.adsabs.harvard.edu/search/q=author%3A%22Mumpower%2C%20Matthew%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
-  bio: I'm a theoretical physicist working at Los Alamos National Lab. My research interests are in nuclear structure and
-    reaction mechanisms with applications to nuclear astrophysics. I received my PhD at North Carolina State University under
-    the direction of Gail McLaughlin. At the University of Notre Dame I worked under the direction of Ani Aprahamian and Rebecca
-    Surman. The study of nuclear models has a wide range of applicability from nuclear medicine, to stockpile stewardship
-    and even the cosmos.
-  interests:
-  - Nuclear physics
-  - Nucleosynthesis
-  - Beta-decay
-  - Fission
-  leadership: null
-  university: North Carolina State University
-  role: R&D Scientist
-  division: Theoretical
-  focus: null
-
 - slug: ben-ryan
   display_name: Ben Ryan
   sort_key: ryan, ben
@@ -749,7 +761,7 @@
   - Hydrodynamics
   leadership: null
   university: Goethe University Frankfurt
-  role: R&D Scientist
+  role: Scientist
   division: Computing and Artificial Intelligence
   focus: null
 
@@ -768,7 +780,7 @@
   - Outflows
   leadership: null
   university: University of Colorado Boulder
-  role: R&D Scientist
+  role: Scientist
   division: Computational Physics
   focus: null
 
@@ -790,7 +802,7 @@
   - Multimessenger astrophysics
   leadership: null
   university: Technische Universität Darmstadt
-  role: R&D Scientist
+  role: Scientist
   division: Theoretical
   focus: null
 
@@ -816,7 +828,7 @@
   - Cosmology
   leadership: null
   university: University of Washington
-  role: R&D Scientist
+  role: Scientist
   division: Analytics, Intelligence and Technology
   focus: null
 
@@ -838,7 +850,7 @@
   - Radiation magnetohydrodynamics
   leadership: null
   university: University of Nevada, Las Vegas
-  role: R&D Scientist
+  role: Scientist
   division: Computational Physics
   focus: null
 
@@ -857,7 +869,7 @@
   - Radiation transport methods
   leadership: null
   university: Louisiana State University
-  role: R&D Scientist
+  role: Scientist
   division: Computing and Artificial Intelligence
   focus: null
 
@@ -874,7 +886,7 @@
   - High-energy-density physics
   leadership: null
   university: University of Oregon
-  role: R&D Scientist
+  role: Scientist
   division: Theoretical Design
   focus: null
 
@@ -1182,7 +1194,7 @@
     year: 2024
     journal: Journal of Spacecraft and Rockets 61:6, 1723-1728
   university: Ph. D. Caltech Physics 1978
-  role: Associate Fellow
+  role: Fellow
   former_role: Los Alamos Laboratory Fellow, Scientist
   former_division: Intelligence & Space Research
   division: Intelligence & Space Research
@@ -1190,4 +1202,73 @@
   group_code: ISR-DO
   accepting_students: Case-by-case
   year_joined: '1978'
+  recruiting_ok: true
+
+- slug: scott-lawrence
+  display_name: Scott Lawrence
+  sort_key: lawrence, scott
+  email: srlawrence@lanl.gov
+  photo: /staff/images/scott-lawrence.jpg
+  scholar: https://scholar.google.com/citations?user=YCqOD0wAAAAJ&hl=en&oi=sra
+  ads: null
+  bio: Scott Lawrence received his Ph.D. in nuclear theory under Paulo Bedaque at the University of Maryland, College Park.
+    He subsequently worked at the University of Colorado, Boulder, with Paul Romatschke, on hydrodynamics of quantum field
+    theories and PT-symmetric field theories. Since 2023 he is in the Theoretical Division at LANL.
+  interests:
+  - Classical and quantum computational methods
+  - Quantum field theory
+  focus: []
+  papers:
+  - title: Quantum algorithms for transport coefficients in gauge theories
+    authors:
+    - Cohen, Thomas D.
+    - Lamm, Henry
+    - Lawrence, Scott
+    - Yamauchi, Yukari
+    year: 2021
+    journal: Physical Review D 104, 094514
+    url: https://arxiv.org/abs/2104.02024
+  - title: Model-free spectral reconstruction via Lagrange duality
+    authors:
+    - Lawrence, Scott
+    year: 2024
+    journal: arXiv e-prints
+    url: https://arxiv.org/abs/2408.11766
+  - title: Light nuclear scattering from neural quantum states
+    authors:
+    - Lawrence, Scott
+    - Yamauchi, Yukari
+    year: 2026
+    journal: arXiv e-prints
+    url: https://arxiv.org/abs/2605.27807
+  university: Los Alamos National Laboratory
+  role: Scientist
+  division: Theoretical
+  group_code: T-5
+  accepting_students: Case-by-case
+  year_joined: '2026'
+  recruiting_ok: true
+
+- slug: martin-krivos
+  display_name: Martin Krivos
+  sort_key: krivos, martin
+  email: mkrivos@lanl.gov
+  photo: /staff/images/martin-krivos.jpg
+  scholar: https://scholar.google.com/citations?user=-n8KGwwAAAAJ&hl=cs&oi=ao
+  ads: null
+  bio: Martin is a postdoc in the Physics Division at LANL, developing agentic AI models for MCNP applications. He graduated
+    from Charles University, Prague, with a PhD in high-energy particle physics, where he was part of the heavy-ion group
+    at the ATLAS Experiment at CERN. In his free time, he works on stellar MHD simulations and thermonuclear burning.
+  interests:
+  - Stellar physics
+  - ML/AI
+  - scientific computing
+  - High-energy particle physics
+  leadership: Coordinator
+  university: Charles University, Prague
+  role: Postdoc
+  division: Physics Division
+  focus: null
+  group_code: null
+  year_joined: '2024'
   recruiting_ok: true

@@ -5,7 +5,7 @@
   photo: /emeritus/images/amaya-andrews.jpg
   scholar: null
   ads: null
-  bio: Former CTA scientist specializing in computational astrophysics and core-collapse supernovae modeling.
+  bio: 
   interests:
   - Computational astrophysics
   - Core-collapse supernovae
@@ -28,7 +28,7 @@
   photo: /emeritus/images/roseanne-cheng.jpg
   scholar: null
   ads: null
-  bio: Former CTA scientist working on tidal disruption events and computational methods.
+  bio: 
   interests:
   - Tidal disruption events
   - Overset mesh methods
@@ -47,7 +47,7 @@
   photo: /emeritus/images/jonas-lippuner.jpg
   scholar: null
   ads: null
-  bio: Former CTA scientist researching tidal disruption events and advanced numerical methods.
+  bio: 
   interests:
   - Tidal disruption events
   - Overset mesh methods
@@ -60,3 +60,61 @@
   focus: null
   years_start: 2015
   years_end: 2022
+
+- slug: matthew-mumpower
+  display_name: Matthew Mumpower
+  sort_key: mumpower, matthew
+  research_groups:
+  - nucleosynthesis
+  email: mumpower@lanl.gov
+  photo: /staff/images/matthew-mumpower.jpg
+  scholar: https://scholar.google.com/citations?user=wYeD79MAAAAJ&hl=en
+  ads: https://ui.adsabs.harvard.edu/search/q=author%3A%22Mumpower%2C%20Matthew%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  bio: I'm a theoretical physicist formerly working at Los Alamos National Lab. My research interests are in nuclear structure and
+    reaction mechanisms with applications to nuclear astrophysics. I received my PhD at North Carolina State University under
+    the direction of Gail McLaughlin. At the University of Notre Dame I worked under the direction of Ani Aprahamian and Rebecca
+    Surman. The study of nuclear models has a wide range of applicability from nuclear medicine, to stockpile stewardship
+    and even the cosmos.
+  interests:
+  - Nuclear physics
+  - Nucleosynthesis
+  - Beta-decay
+  - Fission
+  leadership: null
+  university: North Carolina State University
+  role: Scientist
+  division: Theoretical
+  focus: null
+  years_start: 2016
+  years_end: 2025
+
+- slug: makana-silva
+  display_name: Makana Silva
+  sort_key: silva, makana
+  research_groups:
+  - General relativity
+  email: makanas@lanl.gov
+  photo: /staff/images/makana-silva.png
+  scholar: https://scholar.google.com/citations?hl=en&user=UbqEYOQAAAAJ
+  ads: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Silva%2C%20Makana%22%20%20aff%3A%22los%20alamos%22&sort=date%20desc%2C%20bibcode%20desc
+  bio: Makana Silva is a Native Hawaiian astrophysicist born and raised in Mākaha on the island of Oʻahu. He graduated with
+    his B.S in physics from the University of Hawaiʻi at Mānoa and his Ph.D in physics from The Ohio State University with
+    his advisor Christopher Hirata. He was a Director's Fellow at LANL studying gravity on various physical scales as well
+    as plasma physics across various energy scales. In parallel to his research, he is also on the Board of Directors and
+    Director of Mentorship for the Native Hawaiian non-profit organization ʻOhana Kilo Hōkū (OKH) aiding in the development
+    of community-based events where people can learn about the science of the stars from a Hawaiian culture and scientific
+    perspective. When he is not working, he enjoys lifting stones, logs, kegs, and other heavy and awkward objects.
+  interests:
+  - Extreme mass ratio inspirals
+  - Gravitational waveforms
+  - Resonance interactions
+  - Plasma physics
+  - Black holes
+  - High energy systems
+  leadership: null
+  university: The Ohio State University
+  role: Postdoc
+  division: Computing and Artificial Intelligence
+  focus: null
+  years_start: 2023
+  years_end: 2026

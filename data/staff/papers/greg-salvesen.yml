@@ -6,7 +6,7 @@
   - Pasham, Dheeraj R.
   author_count: 3
   year: '2026'
-  journal: The Astrophysical Journal
+  journal: The Astrophysical Journal Letters
   url: https://ui.adsabs.harvard.edu/abs/2026ApJ...996L...3C/abstract
 
 - bibcode: 2025AAS...24641904T
@@ -43,13 +43,11 @@
   journal: AAS/High Energy Astrophysics Division
   url: https://ui.adsabs.harvard.edu/abs/2023HEAD...2011618S/abstract
 
-- bibcode: 2023HEAD...2011616T
-  title: 'Probing Black Hole Spin Orientations: the inner disk inclination angle in GRO J1655─40'
+- bibcode: 2023HEAD...2011620S
+  title: An Electron-Scattering Time Delay in Black Hole Accretion Disks
   authors:
-  - Turonova, Zuzana
   - Salvesen, Greg
-  - McGowan, Katherine
-  author_count: 3
+  author_count: 1
   year: '2023'
   journal: AAS/High Energy Astrophysics Division
-  url: https://ui.adsabs.harvard.edu/abs/2023HEAD...2011616T/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2023HEAD...2011620S/abstract

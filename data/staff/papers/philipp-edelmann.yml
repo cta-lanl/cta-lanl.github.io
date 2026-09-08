@@ -1,3 +1,17 @@
+- bibcode: 2026JOSS...11.9333B
+  title: 'FleCSI: Flexible Computational Science Infrastructure'
+  authors:
+  - Bergen, Benjamin
+  - Moss, Nick
+  - Demeshko, Irina
+  - Herring, S.
+  - Charest, Marc
+  - Loiseau, Julien
+  author_count: 42
+  year: '2026'
+  journal: The Journal of Open Source Software
+  url: https://ui.adsabs.harvard.edu/abs/2026JOSS...11.9333B/abstract
+
 - bibcode: 2026arXiv260412672L
   title: 'Phlegethon: a fully compressible magnetohydrodynamic code for simulations in stellar astrophysics'
   authors:
@@ -31,7 +45,7 @@
   - Rogers, T. M.
   author_count: 4
   year: '2024'
-  journal: The Astrophysical Journal
+  journal: The Astrophysical Journal Letters
   url: https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..30R/abstract
 
 - bibcode: 2024ApJ...970..104V
@@ -47,17 +61,3 @@
   year: '2024'
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2024ApJ...970..104V/abstract
-
-- bibcode: 2024A&A...686A..34L
-  title: Performance of high-order Godunov-type methods in simulations of astrophysical low Mach number flows
-  authors:
-  - Leidi, G.
-  - Andrassy, R.
-  - Barsukow, W.
-  - Higl, J.
-  - Edelmann, P. V. F.
-  - Röpke, F. K.
-  author_count: 6
-  year: '2024'
-  journal: Astronomy and Astrophysics
-  url: https://ui.adsabs.harvard.edu/abs/2024A&A...686A..34L/abstract

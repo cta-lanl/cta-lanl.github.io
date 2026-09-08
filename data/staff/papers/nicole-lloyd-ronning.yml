@@ -1,3 +1,40 @@
+- bibcode: 2026IAUTA..32..153L
+  title: Illuminating the Physics of Our Universe with Gamma-ray Bursts
+  authors:
+  - Lloyd-Ronning, Nicole M.
+  - Cheng, Roseanne M.
+  author_count: 2
+  year: '2026'
+  journal: Transactions of the International Astronomical Union, Series A
+  url: https://ui.adsabs.harvard.edu/abs/2026IAUTA..32..153L/abstract
+
+- bibcode: 2026arXiv260816991L
+  title: The Gamma-ray Burst Jet Energy Distribution Suggests A Quasi-universal, Weakly Magnetized Jet Evolving Over Cosmic
+    Time
+  authors:
+  - Lloyd-Ronning, Nicole M.
+  - De Colle, Fabio
+  - Birenbaum, Gal
+  - Bromberg, Omer
+  - Johnson, Jarrett
+  author_count: 5
+  year: '2026'
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260816991L/abstract
+
+- bibcode: 2026ApJ..1006...84J
+  title: The Lifetimes of High-redshift Quasars Suggest Magnetic Disk Support
+  authors:
+  - Johnson, Jarrett
+  - Upton Sanderbeck, Phoebe
+  - Lloyd-Ronning, Nicole
+  - Marshall, Madeline
+  - Davis, Kelcey
+  author_count: 5
+  year: '2026'
+  journal: The Astrophysical Journal
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1006...84J/abstract
+
 - bibcode: 2026ApJ..1003..233H
   title: Simulations of Interacting Binary Systems—Pathways to Radio-bright Gamma-Ray Burst Progenitors
   authors:
@@ -20,43 +57,3 @@
   year: '2026'
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..129L/abstract
-
-- bibcode: 2026ApJ..1002L..24R
-  title: Kilonovae and Long-duration Gamma-Ray Bursts
-  authors:
-  - Ristić, Marko
-  - Barker, Brandon L.
-  - Cupp, Samuel
-  - Gross, Axel
-  - Lloyd-Ronning, Nicole
-  - Korobkin, Oleg
-  author_count: 8
-  year: '2026'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1002L..24R/abstract
-
-- bibcode: 2026yCat..75205764C
-  title: 'VizieR Online Data Catalog: Radio-bright/dark GRBs X/radio properties (Chakraborty+, 2023)'
-  authors:
-  - Chakraborty, A.
-  - Dainotti, M.
-  - Cantrell, O.
-  - Lloyd-Ronning, N.
-  author_count: 4
-  year: '2026'
-  journal: VizieR Online Data Catalog
-  url: https://ui.adsabs.harvard.edu/abs/2026yCat..75205764C/abstract
-
-- bibcode: 2026AAS...24714206K
-  title: Tension between long gamma-ray burst and cosmic star formation rates? - Signs of an evolving population
-  authors:
-  - Khatiya, Nikita
-  - Dainotti, Maria
-  - Narendra, Aditya
-  - Bal, Dhruv
-  - Lenart, Aleksander
-  - Hartmann, Dieter
-  author_count: 7
-  year: '2026'
-  journal: American Astronomical Society Meeting Abstracts
-  url: https://ui.adsabs.harvard.edu/abs/2026AAS...24714206K/abstract

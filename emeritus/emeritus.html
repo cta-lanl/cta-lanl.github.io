@@ -144,7 +144,7 @@
 
 			// Display year range if available
 			if (person.years_start || person.years_end) {
-				const yearsText = `CTA member: ${person.years_start || '?'}&mdash;${person.years_end || 'present'}`;
+				const yearsText = `CTA member: ${person.years_start || '?'}&mdash;${person.years_end || '?'}`;
 				const yearsDiv = el('div', { className: 'emeritus-years' }, yearsText);
 				meta.appendChild(yearsDiv);
 			}

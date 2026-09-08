@@ -1,3 +1,16 @@
+- bibcode: 2026ApJ..1006...84J
+  title: The Lifetimes of High-redshift Quasars Suggest Magnetic Disk Support
+  authors:
+  - Johnson, Jarrett
+  - Upton Sanderbeck, Phoebe
+  - Lloyd-Ronning, Nicole
+  - Marshall, Madeline
+  - Davis, Kelcey
+  author_count: 5
+  year: '2026'
+  journal: The Astrophysical Journal
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1006...84J/abstract
+
 - bibcode: 2026arXiv260600258D
   title: 'OCEANS of Absorption: High-resolution NIRSpec Spectroscopy Reveals Diverse Balmer-line Absorption in Little Red
     Dots'
@@ -50,13 +63,3 @@
   year: '2024'
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2024ApJ...974..128U/abstract
-
-- bibcode: 2023AAS...24240806J
-  title: A Simple Condition for Sustained Super-Eddington Black Hole Growth
-  authors:
-  - Johnson, Jarrett
-  - Upton Sanderbeck, Phoebe
-  author_count: 2
-  year: '2023'
-  journal: 'American Astronomical Society Meeting Abstracts #242'
-  url: https://ui.adsabs.harvard.edu/abs/2023AAS...24240806J/abstract

@@ -1,3 +1,14 @@
+- bibcode: 2026JPhCS3252a2001C
+  title: Modeling X-ray Bursting Neutron Star Atmospheres
+  authors:
+  - Colleyn, L.
+  - Medin, Z.
+  - Calder, A. C.
+  author_count: 3
+  year: '2026'
+  journal: Journal of Physics Conference Series
+  url: https://ui.adsabs.harvard.edu/abs/2026JPhCS3252a2001C/abstract
+
 - bibcode: 2026arXiv260203982C
   title: Modeling X-ray Bursting Neutron Star Atmospheres
   authors:
@@ -48,17 +59,3 @@
   year: '2019'
   journal: Bulletin of the American Astronomical Society
   url: https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..11B/abstract
-
-- bibcode: 2016ApJ...832..102M
-  title: Model Atmospheres for X-Ray Bursting Neutron Stars
-  authors:
-  - Medin, Zach
-  - von Steinkirch, Marina
-  - Calder, Alan C.
-  - Fontes, Christopher J.
-  - Fryer, Chris L.
-  - Hungerford, Aimee L.
-  author_count: 6
-  year: '2016'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2016ApJ...832..102M/abstract

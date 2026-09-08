@@ -1,3 +1,17 @@
+- bibcode: 2026JOSS...11.9333B
+  title: 'FleCSI: Flexible Computational Science Infrastructure'
+  authors:
+  - Bergen, Benjamin
+  - Moss, Nick
+  - Demeshko, Irina
+  - Herring, S.
+  - Charest, Marc
+  - Loiseau, Julien
+  author_count: 42
+  year: '2026'
+  journal: The Journal of Open Source Software
+  url: https://ui.adsabs.harvard.edu/abs/2026JOSS...11.9333B/abstract
+
 - bibcode: 2024JOSS....9.6805M
   title: 'Singularity-EOS: Performance Portable Equations of State and Mixed Cell Closures'
   authors:
@@ -50,17 +64,3 @@
   year: '2022'
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2022arXiv220608957M/abstract
-
-- bibcode: 2022arXiv220212309G
-  title: Parthenon -- a performance portable block-structured adaptive mesh refinement framework
-  authors:
-  - Grete, Philipp
-  - Dolence, Joshua C.
-  - Miller, Jonah M.
-  - Brown, Joshua
-  - Ryan, Ben
-  - Gaspar, Andrew
-  author_count: 15
-  year: '2022'
-  journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2022arXiv220212309G/abstract

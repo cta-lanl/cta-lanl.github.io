@@ -1,3 +1,17 @@
+- bibcode: 2026arXiv260707765T
+  title: Sub-Torque-Balance Upper Limits on Continuous Gravitational Waves from Scorpius X-1
+  authors:
+  - The LIGO Scientific Collaboration
+  - the Virgo Collaboration
+  - the KAGRA Collaboration
+  - Precision Ephemerides for Gravitational-Wave Searches, the
+  - Project
+  - ':'
+  author_count: 1839
+  year: '2026'
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260707765T/abstract
+
 - bibcode: 2025CQGra..42f5024Y
   title: Spurious solar-wind effects on acceleration noise in LISA Pathfinder
   authors:
@@ -40,14 +54,3 @@
   year: '2024'
   journal: 32nd General Assembly International Union (IAUGA 2024)
   url: https://ui.adsabs.harvard.edu/abs/2024IAUGA..32P.583M/abstract
-
-- bibcode: 2024arXiv240721774Y
-  title: Spurious Solar-Wind Effects on Acceleration Noise in LISA Pathfinder
-  authors:
-  - Yang, Arnold
-  - Desiderio-Sloane, Indie
-  - Meadors, Grant David
-  author_count: 3
-  year: '2024'
-  journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2024arXiv240721774Y/abstract

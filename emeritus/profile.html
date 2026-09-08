@@ -130,7 +130,7 @@
 			|| '';
 		let tenure = '';
 		if (person.years_start && person.years_end) tenure = `${person.years_start}–${person.years_end}`;
-		else if (person.years_start) tenure = `since ${person.years_start}`;
+		else if (person.years_start) tenure = `${person.years_start}–?`;
 		else if (person.years_end)   tenure = `until ${person.years_end}`;
 
 		const rankParts = [role];

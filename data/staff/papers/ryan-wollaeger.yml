@@ -1,3 +1,16 @@
+- bibcode: 2026arXiv260701228A
+  title: Beta-Particle Transport and Thermalization in Kilonova Ejecta with Detailed Atomic Microphysics
+  authors:
+  - Andalman, Zachary L.
+  - Fryer, Christopher L.
+  - Fontes, Christopher J.
+  - Mumpower, Matthew R.
+  - Wollaeger, Ryan T.
+  author_count: 5
+  year: '2026'
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260701228A/abstract
+
 - bibcode: 2026PhRvR...8b3117R
   title: Joint electromagnetic and gravitational wave inference of binary neutron star merger GW170817 using forward-modeling
     ejecta predictions
@@ -53,17 +66,3 @@
   year: '2026'
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260203621D/abstract
-
-- bibcode: 2024APS..DFDS01035C
-  title: Kinetic spectral simulations with implicit-explicit time integration
-  authors:
-  - Chapurin, Oleksandr
-  - Koshkarov, Oleksandr
-  - Delzanno, Gian Luca
-  - Harnish, Cale
-  - Hrabski, Alexander
-  - Janhunen, Salomon
-  author_count: 10
-  year: '2024'
-  journal: APS Division of Fluid Dynamics Meeting Abstracts
-  url: https://ui.adsabs.harvard.edu/abs/2024APS..DFDS01035C/abstract

@@ -42,7 +42,7 @@
   university: MIT
   role: Masters
   division: Theoretical
-  group_code: 'T-5'
+  group_code: T-5
   focus: null
   card_image: /students/images/2026/mariko-storey-matsutani.jpg
 
@@ -61,3 +61,10 @@
   group_code: T-5
   focus: Binary white dwarf mergers
   card_image: /students/images/2026/laura-hernandez.jpg
+
+- slug: alejandra-rosselli-calderon
+  role: PhD
+  university: University of California, Santa Cruz
+  division: Theoretical
+  group_code: T-CNLS
+  card_image: /students/images/2026/alejandra-rosselli-calderon.jpg

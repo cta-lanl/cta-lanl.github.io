@@ -1,39 +1,44 @@
 - slug: brandon-barker
-  university: 
+  university: null
   role: Postdoc
   division: Computing and Artificial Intelligence
   group_code: CAI-2
-  focus: 
-  card_image: "/postdocs/images/2025/brandon-barker.jpg"
+  focus: null
+  card_image: /postdocs/images/2025/brandon-barker.jpg
 
 - slug: madeline-marshall
-  university: 
+  university: null
   role: Postdoc
   division: Theoretical Design
   group_code: XTD
-  focus: 
-  card_image: "/postdocs/images/2025/madeline-marshall.jpg"
+  focus: null
+  card_image: /postdocs/images/2025/madeline-marshall.jpg
 
 - slug: marko-ristic
-  university: 
+  university: null
   role: Postdoc
   division: Theoretical
   group_code: T-5
-  focus: 
-  card_image: "/postdocs/images/2025/marko-ristic.jpg"
+  focus: null
+  card_image: /postdocs/images/2025/marko-ristic.jpg
 
 - slug: makana-silva
-  university: 
+  university: null
   role: Postdoc
   division: Computing and Artificial Intelligence
   group_code: CAI-2
-  focus: 
-  card_image: "/postdocs/images/2025/makana-silva.jpg"
+  focus: null
+  card_image: /postdocs/images/2025/makana-silva.jpg
 
 - slug: sarah-stangl
-  university: 
+  university: null
   role: Postdoc
   division: Theoretical
   group_code: T-4
-  focus: 
-  card_image: "/postdocs/images/2025/sarah-stangl.jpg"
+  focus: null
+  card_image: /postdocs/images/2025/sarah-stangl.jpg
+
+- slug: martin-krivos
+  university: Charles University, Prague
+  division: Physics Division
+  card_image: /postdocs/images/2026/martin-krivos.jpg

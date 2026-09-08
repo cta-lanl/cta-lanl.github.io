@@ -1,31 +1,32 @@
-- bibcode: 2026arXiv260418828K
-  title: The High Explosives and Affected Targets (HEAT) Dataset
+- bibcode: 2026PhLB..88040771A
+  title: Constraining Hamiltonians from chiral effective field theory with neutron-star data
   authors:
-  - Kaiser, Bryan
-  - Hickmann, Kyle
-  - Chakrabarti, Sharmistha
+  - Armstrong, Cassandra L.
+  - Reed, Brendan T.
+  - Plohr, Tate
+  - Rose, Henrik
   - De, Soumi
-  - Pandit, Sourabh
-  - Schodt, David
+  - Somasundaram, Rahul
+  author_count: 7
+  year: '2026'
+  journal: Physics Letters B
+  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040771A/abstract
+
+- bibcode: 2026DIB....6713012K
+  title: The high explosives &amp; affected targets (HEAT) dataset
+  authors:
+  - Kaiser, B.
+  - Hickmann, K.
+  - Chakrabarti, S.
+  - De, S.
+  - Pandit, S.
+  - Schodt, D.
   author_count: 9
   year: '2026'
-  journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260418828K/abstract
+  journal: Data in Brief
+  url: https://ui.adsabs.harvard.edu/abs/2026DIB....6713012K/abstract
 
-- bibcode: 2026IJEWR..10...63M
-  title: 'Membrane bioreactor (MBR) treated domestic wastewater for the sono-electrolytic production of hydrogen: an experimental
-    study of membraneless and membrane configurations'
-  authors:
-  - Merabet, N. H.
-  - De, S.
-  - Hoinkis, J.
-  - Kerboua, K.
-  author_count: 4
-  year: '2026'
-  journal: International Journal of Energy and Water Resources
-  url: https://ui.adsabs.harvard.edu/abs/2026IJEWR..10...63M/abstract
-
-- bibcode: 2026InJPh.tmp..101D
+- bibcode: 2026InJPh.100.3077D
   title: Geometrical origin of growth of matter perturbations in Finslerian background
   authors:
   - De, S. S.
@@ -34,33 +35,32 @@
   author_count: 3
   year: '2026'
   journal: Indian Journal of Physics
-  url: https://ui.adsabs.harvard.edu/abs/2026InJPh.tmp..101D/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2026InJPh.100.3077D/abstract
 
-- bibcode: 2026CQGra..43e5015R
-  title: Direct inference of nuclear equation-of-state parameters from gravitational-wave observations
+- bibcode: 2026FrP....1419822B
+  title: Multi-modal dynamic radiography using short-pulse laser-generated probe beams
   authors:
-  - Reed, Brendan T.
-  - Armstrong, Cassandra L.
-  - Somasundaram, Rahul
-  - Brown, Duncan A.
-  - Capano, Collin
-  - De, Soumi
-  author_count: 7
+  - Batha, S. H.
+  - Alvarado Alvarez, M.
+  - Bell, B. W.
+  - Broughton, D. P.
+  - Chu, P.
+  - De, S.
+  author_count: 14
   year: '2026'
-  journal: Classical and Quantum Gravity
-  url: https://ui.adsabs.harvard.edu/abs/2026CQGra..43e5015R/abstract
+  journal: Frontiers in Physics
+  url: https://ui.adsabs.harvard.edu/abs/2026FrP....1419822B/abstract
 
-- bibcode: 2026arXiv260214520T
-  title: Accelerating Posterior Inference from Pulsar Light Curves via Learned Latent Representations and Local Simulator-Guided
-    Optimization
+- bibcode: 2026arXiv260630886T
+  title: Multipolar Magnetic-Field Inference for PSR J0740+6620 with Neural-Network-Accelerated NICER Pulse-Profile Modeling
   authors:
   - Taiyebah, Farhana
-  - Bucker Siddik, Abu
-  - Bhattacharjee, Indronil
-  - Oyen, Diane
-  - De, Soumi
+  - Kalapotharakos, Constantinos
   - Olmschenk, Greg
-  author_count: 7
+  - Wallace, Wendy F.
+  - De, Soumi
+  - Bucker Siddik, Abu
+  author_count: 9
   year: '2026'
   journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260214520T/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260630886T/abstract

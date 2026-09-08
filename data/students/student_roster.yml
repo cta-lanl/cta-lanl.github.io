@@ -33,6 +33,7 @@
   student_level: Undergraduate
   year_joined: '2025'
   university: University of California, Los Angeles
+  recruiting_ok: true
 
 - slug: lucian-sahd
   display_name: Lucian Sahd
@@ -83,7 +84,16 @@
   - Supermassive Black Holes
   bio: Claire Whitley is a 2nd year undergraduate student studying Astrophysics at the University of New Mexico.
   papers:
-  - Alpha Cygni Variables as Seen from the Transiting Exoplanet Survey Satellite
+  - title: Alpha Cygni Variables as Seen from the Transiting Exoplanet Survey Satellite
+    authors:
+    - Guzik, Joyce A.
+    - Whitley, Claire
+    - Moore, Nova
+    - Marshall, Madeline
+    - Jackiewicz, Jason
+    year: 2026
+    journal: Proceedings of the 114th Annual Meeting of the AAVSO
+    url: https://arxiv.org/abs/2603.02421
   university: University of New Mexico
   division: Theoretical Design
   group_code: NTA
@@ -131,18 +141,6 @@
   interests:
   - Star Formation
   - AGN
-
-- slug: charles-gardner
-  display_name: Charles Gardner
-  sort_key: gardner, charles
-  photo: /students/images/charles-gardner.jpg
-  email: chg@lanl.gov
-  scholar: ''
-  ads: ''
-  interests:
-  - Planet formation
-  - Circumstellar and circumplanetary disks
-  - Planet formation
 
 - slug: trevor-gravely
   display_name: Trevor Gravely
@@ -497,6 +495,7 @@
   group_code: T-5
   student_level: Undergraduate
   year_joined: '2026'
+  recruiting_ok: true
 
 - slug: lydia-davis
   display_name: Lydia Davis
@@ -521,6 +520,7 @@
   group_code: T-5
   student_level: High school
   year_joined: '2026'
+  recruiting_ok: true
 
 - slug: charlie-gardner
   display_name: Charlie Gardner
@@ -541,12 +541,22 @@
   - Radiative Transfer
   focus: null
   papers:
-  - 'exoALMA. XI. ALMA Observations and Hydrodynamic Models of LkCa 15: Implications for Planetary Mass Companions in the
-    Dust Continuum Cavity'
+  - title: 'exoALMA. XI. ALMA Observations and Hydrodynamic Models of LkCa 15: Implications for Planetary Mass Companions
+      in the Dust Continuum Cavity'
+    authors:
+    - Gardner, Charles H.
+    - Isella, Andrea
+    - Li, Hui
+    author_count: 46
+    year: 2025
+    journal: The Astrophysical Journal Letters 984, L16
+    url: https://arxiv.org/abs/2504.19868
   university: Rice University
   division: Theoretical
   group_code: T-2
-  student_level: Graduate
+  student_level: PhD
+  recruiting_ok: true
+  year_joined: '2025'
 
 - slug: gavin-bent
   display_name: Gavin Bent
@@ -564,6 +574,7 @@
   group_code: XCP-8
   student_level: High school
   year_joined: '2026'
+  recruiting_ok: true
 
 - slug: mariko-storey-matsutani
   display_name: Mariko Storey-Matsutani
@@ -582,9 +593,10 @@
   papers: null
   university: MIT
   division: Theoretical
-  group_code: 'T-5'
+  group_code: T-5
   student_level: Masters
   year_joined: '2026'
+  recruiting_ok: true
 
 - slug: noah-bane
   display_name: Noah Bane
@@ -608,3 +620,24 @@
   group_code: T-5
   student_level: High school
   year_joined: '2026'
+  recruiting_ok: true
+
+- slug: alejandra-rosselli-calderon
+  display_name: Alejandra Rosselli-Calderon
+  sort_key: rosselli-calderon, alejandra
+  email: aleroca@ucsc.edu
+  photo: /students/images/alejandra-rosselli-calderon.jpg
+  scholar: https://scholar.google.com/citations?user=uTlPhW8AAAAJ&hl
+  ads: https://ui.adsabs.harvard.edu/search/q=author%3A%22Rosselli-Calderon%2C%20Alejandra%22
+  bio: Alejandra Rosselli-Calderon is Colombian astrophysics PhD candidate at the University of California, Santa Cruz (UCSC).
+    She has a growing interest in high energy theoretical astrophysics and high performance computing. Her recent work has
+    focused on simulating accretion and mass transfer in binary and higher order systems.
+  interests: []
+  focus: []
+  papers: []
+  university: University of California, Santa Cruz
+  division: Theoretical
+  group_code: T-CNLS
+  student_level: PhD
+  year_joined: '2026'
+  recruiting_ok: true

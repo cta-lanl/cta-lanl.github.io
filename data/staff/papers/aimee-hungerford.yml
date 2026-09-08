@@ -1,3 +1,17 @@
+- bibcode: 2026AAS...24832603B
+  title: 'The MAMBO CubeSat Mission: A New Investigation of the MeV Cosmic Gamma-Ray Background'
+  authors:
+  - Bloser, Peter
+  - Vestrand, W.
+  - Fryer, Chris
+  - Hungerford, Aimee
+  - Mumpower, Matthew
+  - Ajello, Marco
+  author_count: 10
+  year: '2026'
+  journal: American Astronomical Society Meeting Abstracts
+  url: https://ui.adsabs.harvard.edu/abs/2026AAS...24832603B/abstract
+
 - bibcode: 2024ApJ...961....9F
   title: The Effect of the Velocity Distribution on Kilonova Emission
   authors:
@@ -11,20 +25,6 @@
   year: '2024'
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2024ApJ...961....9F/abstract
-
-- bibcode: 2023ApJ...956...19F
-  title: Multimessenger Diagnostics of the Engine behind Core-collapse Supernovae
-  authors:
-  - Fryer, Christopher L.
-  - Burns, Eric
-  - Hungerford, Aimee
-  - Safi-Harb, Samar
-  - Wollaeger, R. T.
-  - Miller, Richard S.
-  author_count: 9
-  year: '2023'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2023ApJ...956...19F/abstract
 
 - bibcode: 2023SPIE12678E..12B
   title: The mini astrophysical MeV background observatory (MAMBO) CubeSat mission for gamma-ray astronomy
@@ -40,6 +40,20 @@
   journal: UV, X-Ray, and Gamma-Ray Space Instrumentation for Astronomy XXIII
   url: https://ui.adsabs.harvard.edu/abs/2023SPIE12678E..12B/abstract
 
+- bibcode: 2023ApJ...956...19F
+  title: Multimessenger Diagnostics of the Engine behind Core-collapse Supernovae
+  authors:
+  - Fryer, Christopher L.
+  - Burns, Eric
+  - Hungerford, Aimee
+  - Safi-Harb, Samar
+  - Wollaeger, R. T.
+  - Miller, Richard S.
+  author_count: 9
+  year: '2023'
+  journal: The Astrophysical Journal
+  url: https://ui.adsabs.harvard.edu/abs/2023ApJ...956...19F/abstract
+
 - bibcode: 2023HEAD...2010336B
   title: 'The Mini Astrophysical MeV Background Observatory (MAMBO): A CubeSat Mission for Gamma-Ray Astronomy'
   authors:
@@ -53,17 +67,3 @@
   year: '2023'
   journal: AAS/High Energy Astrophysics Division
   url: https://ui.adsabs.harvard.edu/abs/2023HEAD...2010336B/abstract
-
-- bibcode: 2023AAS...24223005B
-  title: A New Investigation of the Cosmic Gamma-Ray Background in the MeV Band
-  authors:
-  - Bloser, Peter
-  - Vestrand, W. Thomas
-  - Hehlen, Markus
-  - Katko, Kim
-  - Parker, Lucas
-  - Beckman, Darrel
-  author_count: 20
-  year: '2023'
-  journal: 'American Astronomical Society Meeting Abstracts #242'
-  url: https://ui.adsabs.harvard.edu/abs/2023AAS...24223005B/abstract

@@ -1,69 +1,75 @@
-- bibcode: 2026JEnCh.117..893J
-  title: Kinetic origin and mitigation of sudden capacity fade in silicon-based lithium-ion batteries
+- bibcode: 2027RaPC..25014308B
+  title: 'Evaluation of polytetrafluoroethylene (PTFE) thin films for low-dose passive dosimetry under mammography X-Ray irradiation:
+    A proof of concept'
   authors:
-  - Jeon, Jiyun
-  - Kang, Junsik
-  - Park, Dae-woon
-  - Lim, Hyun Hee
-  - Kang, Ayeon
-  - Lee, Hyungjin
-  author_count: 8
-  year: '2026'
-  journal: Journal of Energy Chemistry
-  url: https://ui.adsabs.harvard.edu/abs/2026JEnCh.117..893J/abstract
+  - Bradley, D. A.
+  - Taheri, A.
+  - Moradi, F.
+  - Wong, J. H. D.
+  - Lim, H. X.
+  - Alkhorayef, M. A.
+  author_count: 6
+  year: '2027'
+  journal: Radiation Physics and Chemistry
+  url: https://ui.adsabs.harvard.edu/abs/2027RaPC..25014308B/abstract
 
-- bibcode: 2026EPJC...86..598A
-  title: Medium-induced modification of azimuthal correlations of electrons from heavy-flavor hadron decays with charged particles
-    in Pb─Pb collisions at <inline-formula><mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mtext>NN</mml:mtext></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn></mml:mrow></mml:math></inline-formula>
+- bibcode: 2026JWEIA.27606545T
+  title: Experimental characterisation of atmospheric flows in the boundary layer wind tunnel facility at the University of
+    Bristol
+  authors:
+  - Taouil, Nada
+  - Lim, H. D.
+  - Azarpeyvand, Mahdi
+  author_count: 3
+  year: '2026'
+  journal: Journal of Wind Engineering and Industrial Aerodynamics
+  url: https://ui.adsabs.harvard.edu/abs/2026JWEIA.27606545T/abstract
+
+- bibcode: 2026PhLB..88040766A
+  title: Measurement of the transverse-momentum fraction of strange hadrons from jet-like correlation structures in pp collisions
+    at <mml:math><mml:mrow><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn></mml:mrow></mml:math>
     TeV
   authors:
-  - Alice Collaboration
+  - Abdallah, D. A. H.
+  - Abualrob, I. J.
+  - Acharya, S.
+  - Agarwal, K.
+  - Aglieri Rinella, G.
+  - Aglietta, L.
+  author_count: 1011
+  year: '2026'
+  journal: Physics Letters B
+  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040766A/abstract
+
+- bibcode: 2026PhLB..88040672A
+  title: Limits on the chiral magnetic effect from the event shape engineering and participant-spectator correlation techniques
+    in Pb─Pb collisions at <mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mtext>NN</mml:mtext></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn></mml:mrow></mml:math>
+    TeV
+  authors:
+  - Abdallah, D. A. H.
+  - Abualrob, I. J.
+  - Acharya, S.
+  - Agarwal, K.
+  - Aglieri Rinella, G.
+  - Aglietta, L.
+  author_count: 1008
+  year: '2026'
+  journal: Physics Letters B
+  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040672A/abstract
+
+- bibcode: 2026PhRvL.137h2301A
+  title: Evidence of Nuclear Geometry-Driven Anisotropic Flow in <inline-formula><mml:math><mml:mrow><mml:mi>O</mml:mi><mml:mo>+</mml:mo><mml:mi>O</mml:mi></mml:mrow></mml:math></inline-formula>
+    and <inline-formula><mml:math><mml:mrow><mml:mi>Ne</mml:mi><mml:mo>+</mml:mo><mml:mi>Ne</mml:mi></mml:mrow></mml:math></inline-formula>
+    Collisions at <inline-formula><mml:math><mml:mrow><mml:msqrt><mml:mrow><mml:msub><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mi>NN</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.36</mml:mn><mml:mtext>
+    </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:mrow></mml:math></inline-formula>
+  authors:
   - Abualrob, I. J.
   - Acharya, S.
   - Aglieri Rinella, G.
   - Aglietta, L.
-  - Agnello, M.
-  author_count: 1042
+  - Agrawal, N.
+  - Ahammed, Z.
+  author_count: 1034
   year: '2026'
-  journal: European Physical Journal C
-  url: https://ui.adsabs.harvard.edu/abs/2026EPJC...86..598A/abstract
-
-- bibcode: 2026arXiv260624215C
-  title: Nonlinear Stability of Kerr-Sen Black Holes in Merging Binaries
-  authors:
-  - Carroll, Andrew
-  - Hirschmann, Eric W.
-  - Lim, Hyun
-  - Neilsen, David
-  - Van Komen, David F.
-  - Vander Ploeg Fallon, Sebastian
-  author_count: 6
-  year: '2026'
-  journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260624215C/abstract
-
-- bibcode: 2026ACSSe..11.3664L
-  title: Three-Dimensional DNA Nanostructure-Assisted Multiplexed Aptamer Assay for Simultaneous Detection of Endocrine-Disrupting
-    Chemical Clusters
-  authors:
-  - Lim, Hyun Jeong
-  - Son, Ahjeong
-  author_count: 2
-  year: '2026'
-  journal: ACS Sensors
-  url: https://ui.adsabs.harvard.edu/abs/2026ACSSe..11.3664L/abstract
-
-- bibcode: 2026ApWS...16..150O
-  title: 'Trihalomethanes as chlorination by-product: insights from an extended two decades study across six full-scale water
-    treatment plants'
-  authors:
-  - Oh, Yu Na
-  - Lim, Hyun Jeong
-  - Jeon, Hun Sang
-  - Kim, Min-Jeong
-  - Jeong, Seongpil
-  - Son, Ahjeong
-  author_count: 6
-  year: '2026'
-  journal: Applied Water Science
-  url: https://ui.adsabs.harvard.edu/abs/2026ApWS...16..150O/abstract
+  journal: Physical Review Letters
+  url: https://ui.adsabs.harvard.edu/abs/2026PhRvL.137h2301A/abstract

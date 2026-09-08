@@ -1,3 +1,18 @@
+- bibcode: 2026PhLB..88040742N
+  title: Quasielastic <mml:math><mml:mrow><mml:mover><mml:mrow><mml:msup><mml:mrow></mml:mrow><mml:mn>3</mml:mn></mml:msup><mml:mtext>He</mml:mtext></mml:mrow><mml:mo>→</mml:mo></mml:mover><mml:mrow><mml:mo>(</mml:mo><mml:mover><mml:mi>e</mml:mi><mml:mo>→</mml:mo></mml:mover><mml:mo>,</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mo>′</mml:mo></mml:msup><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math>
+    asymmetry in the threshold region with a longitudinally polarized target
+  authors:
+  - Nycz, M.
+  - Armstrong, W.
+  - Averett, T.
+  - Gayoso, C. Ayerbe
+  - Bai, X.
+  - Bane, J.
+  author_count: 102
+  year: '2026'
+  journal: Physics Letters B
+  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040742N/abstract
+
 - bibcode: 2026NIMPA108671323H
   title: Intrinsic energy and time resolution of the Jefferson Lab Hall C Neutral Particle Spectrometer
   authors:
@@ -54,17 +69,3 @@
   year: '2026'
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260214416./abstract
-
-- bibcode: 2025PhLB..86839734L
-  title: Inclusive studies of two- and three-nucleon short-range correlations in <SUP>3</SUP>H and <SUP>3</SUP>He
-  authors:
-  - Li, S.
-  - Santiesteban, S. N.
-  - Arrington, J.
-  - Cruz-Torres, R.
-  - Kurbany, L.
-  - Abrams, D.
-  author_count: 116
-  year: '2025'
-  journal: Physics Letters B
-  url: https://ui.adsabs.harvard.edu/abs/2025PhLB..86839734L/abstract

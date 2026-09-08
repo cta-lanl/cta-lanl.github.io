@@ -1,69 +1,67 @@
-- bibcode: 2026PhRvR...8b3117R
-  title: Joint electromagnetic and gravitational wave inference of binary neutron star merger GW170817 using forward-modeling
-    ejecta predictions
+- bibcode: 2026RScI...97h5202W
+  title: Expanded higher energy channel for the National Ignition Facility's soft x-ray opacity spectrometer (OpSpec)
   authors:
-  - Ristić, Marko
-  - O'Shaughnessy, Richard
-  - Wagner, Kate
-  - Fontes, Christopher J.
-  - Fryer, Chris L.
-  - Korobkin, Oleg
-  author_count: 8
+  - Wallace, M. S.
+  - Heeter, R. F.
+  - Opachich, Y. P.
+  - Peterson, A. E.
+  - Dutra, E. C.
+  - Cho, P.
+  author_count: 17
   year: '2026'
-  journal: Physical Review Research
-  url: https://ui.adsabs.harvard.edu/abs/2026PhRvR...8b3117R/abstract
+  journal: Review of Scientific Instruments
+  url: https://ui.adsabs.harvard.edu/abs/2026RScI...97h5202W/abstract
 
-- bibcode: 2026ApJ..1003...89F
-  title: A Comparison of Three Neodymium Atomic Data Sets for Kilonova Modeling
+- bibcode: 2026AAS...24810605G
+  title: Examining Line-Shape Models in DB White Dwarf Atmospheres
   authors:
-  - Fontes, Christopher J.
-  - Vieira, Nicholas
-  - Fryer, Chris L.
-  - Kathirgamaraju, Adithan
-  - Korobkin, Oleg
-  - Ristić, Marko
+  - Gomez, Thomas
+  - Hobbs, Bryce
+  - Bray, Igor
+  - Fursa, Dmitry
+  - Fontes, Christopher
+  - Zammit, Mark
   author_count: 7
   year: '2026'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1003...89F/abstract
+  journal: American Astronomical Society Meeting Abstracts
+  url: https://ui.adsabs.harvard.edu/abs/2026AAS...24810605G/abstract
 
-- bibcode: 2026arXiv260503947F
-  title: Effects of magnetically driven shocks on nucleosynthesis and kilonovae from neutron star mergers
+- bibcode: 2026AAS...24811603G
+  title: Using XRISM to Spectroscopically Determine Neutron Star Masses and Radii
   authors:
-  - Feng, Yuan
-  - Korobkin, Oleg
-  - Most, Elias R.
-  - Smith, Ananda F.
+  - Gomez, Thomas
+  - Zammit, Mark
+  - Fontes, Christopher
+  - Bray, Igor
+  - White, Jackson
+  author_count: 5
+  year: '2026'
+  journal: American Astronomical Society Meeting Abstracts
+  url: https://ui.adsabs.harvard.edu/abs/2026AAS...24811603G/abstract
+
+- bibcode: 2026AAS...24830310G
+  title: How Exchange Interactions Change the Broadening in DB White Dwarf Atmospheres
+  authors:
+  - Gomez, Thomas
+  - Hobbs, Bryce
+  - Bray, Igor
+  - Fursa, Dmitry
+  - Fontes, Christopher
+  - Zammit, Mark
+  author_count: 7
+  year: '2026'
+  journal: American Astronomical Society Meeting Abstracts
+  url: https://ui.adsabs.harvard.edu/abs/2026AAS...24830310G/abstract
+
+- bibcode: 2026arXiv260701228A
+  title: Beta-Particle Transport and Thermalization in Kilonova Ejecta with Detailed Atomic Microphysics
+  authors:
+  - Andalman, Zachary L.
+  - Fryer, Christopher L.
   - Fontes, Christopher J.
+  - Mumpower, Matthew R.
+  - Wollaeger, Ryan T.
   author_count: 5
   year: '2026'
   journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260503947F/abstract
-
-- bibcode: 2026PhRvA.113d2814G
-  title: Close-coupling approach to electron scattering with multielectron targets
-  authors:
-  - Gomez, Thomas A.
-  - Fursa, Dmitry V.
-  - Bray, Igor
-  - Zammit, Mark C.
-  - Fontes, Christopher J.
-  - White, Jackson
-  author_count: 6
-  year: '2026'
-  journal: Physical Review A
-  url: https://ui.adsabs.harvard.edu/abs/2026PhRvA.113d2814G/abstract
-
-- bibcode: 2026A&A...708A.126M
-  title: Impact of in situ nuclear networks and atomic opacities on neutron star merger ejecta dynamics, nucleosynthesis,
-    and kilonovae
-  authors:
-  - Magistrelli, Fabio
-  - Bernuzzi, Sebastiano
-  - Perego, Albino
-  - Jacobi, Maximilian
-  - Fontes, Christopher J.
-  author_count: 5
-  year: '2026'
-  journal: Astronomy and Astrophysics
-  url: https://ui.adsabs.harvard.edu/abs/2026A&A...708A.126M/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260701228A/abstract

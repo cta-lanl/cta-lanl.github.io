@@ -1,3 +1,17 @@
+- bibcode: 2026ApJ..1002L..24R
+  title: Kilonovae and Long-duration Gamma-Ray Bursts
+  authors:
+  - Ristić, Marko
+  - Barker, Brandon L.
+  - Cupp, Samuel
+  - Gross, Axel
+  - Lloyd-Ronning, Nicole
+  - Korobkin, Oleg
+  author_count: 8
+  year: '2026'
+  journal: The Astrophysical Journal Letters
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1002L..24R/abstract
+
 - bibcode: 2026PhRvR...8b3117R
   title: Joint electromagnetic and gravitational wave inference of binary neutron star merger GW170817 using forward-modeling
     ejecta predictions
@@ -13,19 +27,18 @@
   journal: Physical Review Research
   url: https://ui.adsabs.harvard.edu/abs/2026PhRvR...8b3117R/abstract
 
-- bibcode: 2026ApJ..1002L..24R
-  title: Kilonovae and Long-duration Gamma-Ray Bursts
+- bibcode: 2026arXiv260503947F
+  title: Effects of magnetically driven shocks on nucleosynthesis and kilonovae from neutron star mergers
   authors:
-  - Ristić, Marko
-  - Barker, Brandon L.
-  - Cupp, Samuel
-  - Gross, Axel
-  - Lloyd-Ronning, Nicole
+  - Feng, Yuan
   - Korobkin, Oleg
-  author_count: 8
+  - Most, Elias R.
+  - Smith, Ananda F.
+  - Fontes, Christopher J.
+  author_count: 5
   year: '2026'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1002L..24R/abstract
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260503947F/abstract
 
 - bibcode: 2026ApJ..1003...89F
   title: A Comparison of Three Neodymium Atomic Data Sets for Kilonova Modeling
@@ -40,19 +53,6 @@
   year: '2026'
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1003...89F/abstract
-
-- bibcode: 2026arXiv260503947F
-  title: Effects of magnetically driven shocks on nucleosynthesis and kilonovae from neutron star mergers
-  authors:
-  - Feng, Yuan
-  - Korobkin, Oleg
-  - Most, Elias R.
-  - Smith, Ananda F.
-  - Fontes, Christopher J.
-  author_count: 5
-  year: '2026'
-  journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260503947F/abstract
 
 - bibcode: 2026arXiv260327036N
   title: Material Identification using Multi-Modal Intrinsic Radiation and Radiography

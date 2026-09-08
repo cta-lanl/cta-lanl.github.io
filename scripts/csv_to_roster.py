@@ -198,6 +198,9 @@ def split_list(value: str) -> list[str]:
         return []
     if "\n" in value:
         items = [v.strip() for v in value.splitlines()]
+    elif "," not in value and ";" in value:
+        # Some members separate a list with semicolons instead of commas.
+        items = [v.strip() for v in value.split(";")]
     else:
         items = [v.strip() for v in value.split(",")]
     return [v for v in items if v]
@@ -223,6 +226,74 @@ def truthy(cell: str) -> bool:
     return (cell or "").strip().lower().startswith(("y", "true", "1"))
 
 
+GROUP_CODE_DECLINED = {"rather not say", "n/a", "na", "none", "-"}
+
+# The form asks for "Division" and gets the code back; the rosters spell it out.
+DIVISION_NAMES = {
+    "T": "Theoretical",
+    "THEORY": "Theoretical",
+    "THEORETICAL": "Theoretical",
+    "CAI": "Computing and Artificial Intelligence",
+    "CCS": "Computer, Computational & Statistical Sciences",
+    "XCP": "Computational Physics",
+    "XTD": "Theoretical Design",
+    "X THEORETICAL DESIGN": "Theoretical Design",
+    "ISR": "Intelligence & Space Research",
+    "NSEC": "National Security Education Center",
+    "HPC": "High Performance Computing",
+}
+
+
+# The form's level options read as a single degree; the cards label a cohort.
+STUDENT_LEVELS = {"Master": "Masters", "Bachelor": "Undergraduate"}
+
+
+def normalise_student_level(entry: dict[str, Any]) -> None:
+    level = (entry.get("student_level") or "").strip()
+    if level in STUDENT_LEVELS:
+        entry["student_level"] = STUDENT_LEVELS[level]
+
+
+def normalise_division(entry: dict[str, Any]) -> None:
+    """Expand a division code into the spelled-out name the cards render.
+
+    A code typed with its group suffix ("CAI-2", "T-CNLS") also fills group_code
+    when the member left that cell empty. Anything already spelled out, or not a
+    code we know, is left alone.
+    """
+    raw = (entry.get("division") or "").strip()
+    if not raw:
+        return
+    if raw.upper() in DIVISION_NAMES:
+        entry["division"] = DIVISION_NAMES[raw.upper()]
+        return
+    head, _, tail = raw.partition("-")
+    if tail and head.upper() in DIVISION_NAMES:
+        entry["division"] = DIVISION_NAMES[head.upper()]
+        if not (entry.get("group_code") or "").strip():
+            entry["group_code"] = raw.upper()
+
+
+def normalise_group_code(entry: dict[str, Any]) -> None:
+    """Repair the two ways the form's Division / Group code pair comes back wrong.
+
+    People routinely split the code across both cells ("CAI" + "2"), leaving a
+    bare number where the group belongs. Rejoin those into "CAI-2". People who
+    decline the question type prose ("Rather not say"), which is not a code.
+    """
+    code = (entry.get("group_code") or "").strip()
+    if not code:
+        return
+    if code.lower() in GROUP_CODE_DECLINED:
+        entry["group_code"] = None
+        return
+    if code.isdigit():
+        division = (entry.get("division") or "").strip()
+        # Only a division that is itself a code ("T", "CAI") can prefix a group.
+        if division and re.fullmatch(r"[A-Za-z]{1,4}", division):
+            entry["group_code"] = f"{division.upper()}-{code}"
+
+
 def row_to_entry(row: list[str], category: str) -> tuple[dict[str, Any], str | None]:
     block = BLOCKS[category]
     start = block["start"]
@@ -246,11 +317,24 @@ def row_to_entry(row: list[str], category: str) -> tuple[dict[str, Any], str | N
         raw = (row[start + offset] or "").strip()
         entry[field] = split_list(raw) if field in LIST_FIELDS else (raw or None)
 
-    year = (row[COL_YEAR_JOINED] or "").strip()
-    if year:
-        entry["year_joined"] = year
+    normalise_group_code(entry)
+    normalise_division(entry)
+    normalise_student_level(entry)
 
     additional = (row[COL_ADDITIONAL] or "").strip()
+
+    # The profile card renders this as "since <year_joined>", so only a year
+    # belongs here. Longtimers answer in prose ("from the beginning"); keep
+    # what they wrote as a note rather than printing it as a date.
+    year = (row[COL_YEAR_JOINED] or "").strip()
+    if year:
+        found = re.search(r"\b(19|20)\d{2}\b", year)
+        if found:
+            entry["year_joined"] = found.group(0)
+        else:
+            additional = f"Year joined, as submitted: {year}" if not additional else \
+                f"{additional} | Year joined, as submitted: {year}"
+
     if additional:
         entry["additional"] = additional
 
@@ -289,7 +373,32 @@ def _dump_list_with_blank_lines(rows: list[Any], f) -> None:
     f.write("\n\n".join(chunks) + "\n")
 
 
-PRESERVE_IF_EXISTING = {"photo", "sort_key"}
+# Fields whose curated roster value beats the form answer when one already
+# exists. New people still get the form value (nothing to preserve yet).
+#   papers                  roster holds structured {title, authors, year,
+#                           journal, url} entries; the form collects free text.
+#   division/former_division  roster spells divisions out ("Computing and
+#                           Artificial Intelligence"); members answer with the
+#                           code, and normalise_division only knows some of them.
+#   university              roster means alma mater; the form question conflates
+#                           it with current affiliation, which lives in
+#                           `affiliation`.
+PRESERVE_IF_EXISTING = {"photo", "sort_key", "papers", "division",
+                        "former_division", "university"}
+
+
+# List questions members routinely answer in sentences. The cards render each
+# item as its own chip, so one run-on item is worse than the curated list it
+# would replace.
+PROSE_GUARDED_LISTS = {"interests", "focus"}
+
+
+def is_prose_list(value: Any) -> bool:
+    """A list answer that is really one sentence, not a list."""
+    if not isinstance(value, list) or len(value) != 1:
+        return False
+    item = str(value[0])
+    return len(item) > 80 or ". " in item
 
 
 def field_merge(existing: dict[str, Any], new: dict[str, Any]) -> dict[str, Any]:
@@ -304,6 +413,8 @@ def field_merge(existing: dict[str, Any], new: dict[str, Any]) -> dict[str, Any]
         if isinstance(v, list) and not v:
             continue
         if k in PRESERVE_IF_EXISTING and existing.get(k):
+            continue
+        if k in PROSE_GUARDED_LISTS and existing.get(k) and is_prose_list(v):
             continue
         merged[k] = v
     return merged
@@ -437,6 +548,8 @@ def merge_stint_year(
     """Merge stints into one year file. Each job is (stint, is_newest).
     Newest year for a person overwrites their stint fields with the current
     submission; older years fill only empty fields (preserve history/hand-edits).
+    PRESERVE_IF_EXISTING applies here too, so a curated division survives the
+    division code members type into the form.
     Existing keys the script doesn't manage (card_image, photo_override) survive.
     """
     by_slug: dict[str, dict[str, Any]] = {}
@@ -461,6 +574,8 @@ def merge_stint_year(
         changed: list[str] = []
         for k, v in stint.items():
             if k == "slug":
+                continue
+            if k in PRESERVE_IF_EXISTING and cur.get(k):
                 continue
             if is_newest:
                 if cur.get(k) != v:
