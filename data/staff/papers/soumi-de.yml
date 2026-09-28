@@ -1,3 +1,17 @@
+- bibcode: 2026arXiv260904553B
+  title: X-ray photoelectron spectroscopy of Ar and Kr clusters formed in He nanodroplets
+  authors:
+  - Blaj, N. S.
+  - Scheel, N.
+  - Rajni, R.
+  - Lægdsmand, A. Ø.
+  - Sadasivan, J.
+  - De, S.
+  author_count: 10
+  year: '2026'
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260904553B/abstract
+
 - bibcode: 2026PhLB..88040771A
   title: Constraining Hamiltonians from chiral effective field theory with neutron-star data
   authors:
@@ -36,20 +50,6 @@
   year: '2026'
   journal: Indian Journal of Physics
   url: https://ui.adsabs.harvard.edu/abs/2026InJPh.100.3077D/abstract
-
-- bibcode: 2026FrP....1419822B
-  title: Multi-modal dynamic radiography using short-pulse laser-generated probe beams
-  authors:
-  - Batha, S. H.
-  - Alvarado Alvarez, M.
-  - Bell, B. W.
-  - Broughton, D. P.
-  - Chu, P.
-  - De, S.
-  author_count: 14
-  year: '2026'
-  journal: Frontiers in Physics
-  url: https://ui.adsabs.harvard.edu/abs/2026FrP....1419822B/abstract
 
 - bibcode: 2026arXiv260630886T
   title: Multipolar Magnetic-Field Inference for PSR J0740+6620 with Neural-Network-Accelerated NICER Pulse-Profile Modeling

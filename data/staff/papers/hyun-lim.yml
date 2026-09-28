@@ -25,6 +25,36 @@
   journal: Journal of Wind Engineering and Industrial Aerodynamics
   url: https://ui.adsabs.harvard.edu/abs/2026JWEIA.27606545T/abstract
 
+- bibcode: 2026PhRvC.114c4005A
+  title: One- and three-dimensional identical charged-kaon femtoscopic correlations in Pb-Pb collisions at <inline-formula><mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>N</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn><mml:mspace></mml:mspace><mml:mi>TeV</mml:mi></mml:mrow></mml:math></inline-formula>
+  authors:
+  - Abualrob, I. J.
+  - Acharya, S.
+  - Aglieri Rinella, G.
+  - Aglietta, L.
+  - Agrawal, N.
+  - Ahammed, Z.
+  author_count: 1038
+  year: '2026'
+  journal: Physical Review C
+  url: https://ui.adsabs.harvard.edu/abs/2026PhRvC.114c4005A/abstract
+
+- bibcode: 2026PhLB..88040672A
+  title: Limits on the chiral magnetic effect from the event shape engineering and participant-spectator correlation techniques
+    in Pb-Pb collisions at <mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mtext>NN</mml:mtext></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn></mml:mrow></mml:math>
+    TeV
+  authors:
+  - Abdallah, D. A. H.
+  - Abualrob, I. J.
+  - Acharya, S.
+  - Agarwal, K.
+  - Aglieri Rinella, G.
+  - Aglietta, L.
+  author_count: 1008
+  year: '2026'
+  journal: Physics Letters B
+  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040672A/abstract
+
 - bibcode: 2026PhLB..88040766A
   title: Measurement of the transverse-momentum fraction of strange hadrons from jet-like correlation structures in pp collisions
     at <mml:math><mml:mrow><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn></mml:mrow></mml:math>
@@ -40,36 +70,3 @@
   year: '2026'
   journal: Physics Letters B
   url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040766A/abstract
-
-- bibcode: 2026PhLB..88040672A
-  title: Limits on the chiral magnetic effect from the event shape engineering and participant-spectator correlation techniques
-    in Pb─Pb collisions at <mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mtext>NN</mml:mtext></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn></mml:mrow></mml:math>
-    TeV
-  authors:
-  - Abdallah, D. A. H.
-  - Abualrob, I. J.
-  - Acharya, S.
-  - Agarwal, K.
-  - Aglieri Rinella, G.
-  - Aglietta, L.
-  author_count: 1008
-  year: '2026'
-  journal: Physics Letters B
-  url: https://ui.adsabs.harvard.edu/abs/2026PhLB..88040672A/abstract
-
-- bibcode: 2026PhRvL.137h2301A
-  title: Evidence of Nuclear Geometry-Driven Anisotropic Flow in <inline-formula><mml:math><mml:mrow><mml:mi>O</mml:mi><mml:mo>+</mml:mo><mml:mi>O</mml:mi></mml:mrow></mml:math></inline-formula>
-    and <inline-formula><mml:math><mml:mrow><mml:mi>Ne</mml:mi><mml:mo>+</mml:mo><mml:mi>Ne</mml:mi></mml:mrow></mml:math></inline-formula>
-    Collisions at <inline-formula><mml:math><mml:mrow><mml:msqrt><mml:mrow><mml:msub><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mi>NN</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.36</mml:mn><mml:mtext>
-    </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:mrow></mml:math></inline-formula>
-  authors:
-  - Abualrob, I. J.
-  - Acharya, S.
-  - Aglieri Rinella, G.
-  - Aglietta, L.
-  - Agrawal, N.
-  - Ahammed, Z.
-  author_count: 1034
-  year: '2026'
-  journal: Physical Review Letters
-  url: https://ui.adsabs.harvard.edu/abs/2026PhRvL.137h2301A/abstract

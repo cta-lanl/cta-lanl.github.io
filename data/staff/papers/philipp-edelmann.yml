@@ -36,6 +36,20 @@
   journal: U.S. Department of Energy (DOE) Software
   url: https://ui.adsabs.harvard.edu/abs/2026doe..soft...17E/abstract
 
+- bibcode: 2025scw..conf.1330H
+  title: Enhancing HPX with FleCSI
+  authors:
+  - Herring, S. Davis
+  - Moraru, Maxim
+  - Pakin, Scott
+  - Loiseau, Julien
+  - Berger, Richard
+  - Edelmann, Philipp V. F.
+  author_count: 7
+  year: '2025'
+  journal: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis
+  url: https://ui.adsabs.harvard.edu/abs/2025scw..conf.1330H/abstract
+
 - bibcode: 2024ApJ...977L..30R
   title: On the Geometry of the Near-core Magnetic Field in Massive Stars
   authors:
@@ -47,17 +61,3 @@
   year: '2024'
   journal: The Astrophysical Journal Letters
   url: https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..30R/abstract
-
-- bibcode: 2024ApJ...970..104V
-  title: Effect of Rotation on Wave Mixing in Intermediate-mass Stars
-  authors:
-  - Varghese, A.
-  - Ratnasingam, R. P.
-  - Vanon, R.
-  - Edelmann, P. V. F.
-  - Mathis, S.
-  - Rogers, T. M.
-  author_count: 6
-  year: '2024'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2024ApJ...970..104V/abstract

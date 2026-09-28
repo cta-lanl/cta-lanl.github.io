@@ -52,16 +52,16 @@
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260608868K/abstract
 
-- bibcode: 2026GeoRL..5320780W
-  title: Prediction of Hydroclimatic Anomalies Using a New Isotope Precipitation Index
+- bibcode: 2026ApJ..1002L..24R
+  title: Kilonovae and Long-duration Gamma-Ray Bursts
   authors:
-  - Watson, A.
-  - Miller, J.
-  - Waal, J.
-  - Beckett, H.
-  - Vystavna, Y.
-  - Chikviladze, E.
-  author_count: 14
+  - Ristić, Marko
+  - Barker, Brandon L.
+  - Cupp, Samuel
+  - Gross, Axel
+  - Lloyd-Ronning, Nicole
+  - Korobkin, Oleg
+  author_count: 8
   year: '2026'
-  journal: Geophysical Research Letters
-  url: https://ui.adsabs.harvard.edu/abs/2026GeoRL..5320780W/abstract
+  journal: The Astrophysical Journal Letters
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1002L..24R/abstract

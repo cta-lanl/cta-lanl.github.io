@@ -1,3 +1,17 @@
+- bibcode: 2026JSV...64420044K
+  title: Editorial for special issue for Michael J. Brennan
+  authors:
+  - Kovacic, Ivana
+  - Joseph, Phillip
+  - Gardonio, Paolo
+  - Bonello, Philip
+  - Shin, Kihong
+  - Tang, Bin
+  author_count: 10
+  year: '2026'
+  journal: Journal of Sound Vibration
+  url: https://ui.adsabs.harvard.edu/abs/2026JSV...64420044K/abstract
+
 - bibcode: 2026yCat..19580195C
   title: 'VizieR Online Data Catalog: AGN STORM 2. IV. Swift XRT and UVOT monitoring (Cackett+, 2023)'
   authors:
@@ -49,13 +63,3 @@
   year: '2025'
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2025ApJ...987..144K/abstract
-
-- bibcode: 2025AAS...24630801S
-  title: A new explanation for coronal rain formation
-  authors:
-  - Stricklan, Amanda
-  - Waters, Tim
-  author_count: 2
-  year: '2025'
-  journal: 246th Meeting of the American Astronomical Society
-  url: https://ui.adsabs.harvard.edu/abs/2025AAS...24630801S/abstract

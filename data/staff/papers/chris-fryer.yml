@@ -1,31 +1,25 @@
-- bibcode: 2026ApJ..1007..162P
-  title: 'Stellar Interpretation of Meteoritic Data and PLotting for Everyone (SIMPLE): Isotope Mixing Lines for Six Sets
-    of Core-collapse Supernova Models'
+- bibcode: 2026arXiv260912153K
+  title: A Proliferated Space Architecture for Time-Domain Astrophysics
   authors:
-  - Pignatari, Marco
-  - Ek, Mattias
-  - Makhatadze, Georgy V.
-  - Balázs, Gábor G.
-  - Roberti, Lorenzo
-  - Ball, James M.
-  author_count: 18
-  year: '2026'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1007..162P/abstract
-
-- bibcode: 2026arXiv260831160B
-  title: 'Ad Astra White Paper: A Pitch for the Next 25 Years of NASA''s Physics of the Cosmos Program'
-  authors:
+  - Kocevski, Daniel
   - Burns, Eric
-  - Agullo, Ivan
-  - Andreoni, Igor
-  - Deibel, Catherine M.
-  - Fryer, Christopher L.
-  - Latouf, Natasha
-  author_count: 10
+  - Barclay, Thomas
+  - White, Nicholas E.
+  - Galeazzi, Massimiliano
+  - O'Connor, Brendan
+  author_count: 61
   year: '2026'
   journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260831160B/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260912153K/abstract
+
+- bibcode: 2026arXiv260912308F
+  title: Electromagnetic Probes of the Supernova Engine
+  authors:
+  - Fryer, Chris L.
+  author_count: 1
+  year: '2026'
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260912308F/abstract
 
 - bibcode: 2026arXiv260809395C
   title: 'Hyperaccreting Magnetised Neutron Stars inside Rotating Massive Envelopes: Low-Power Jets and Precursor Flares'
@@ -37,20 +31,6 @@
   year: '2026'
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260809395C/abstract
-
-- bibcode: 2026arXiv260820829R
-  title: 'GRB 220101A: a most energetic $10^{54}$ erg long GRB triggered by two supernovae 3.5 seconds apart'
-  authors:
-  - Ruffini, R.
-  - Aimuratov, Y.
-  - Becerra, L. M.
-  - Fryer, Chris L.
-  - Li, Liang
-  - Mathews, G. J.
-  author_count: 13
-  year: '2026'
-  journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260820829R/abstract
 
 - bibcode: 2026ApJ..1007L...9R
   title: A Multiwavelength View of the First Type Ic-BL Supernova with an Einstein Probe X-Ray Shock Breakout
@@ -65,3 +45,18 @@
   year: '2026'
   journal: The Astrophysical Journal Letters
   url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1007L...9R/abstract
+
+- bibcode: 2026cosp...46.1844R
+  title: On GRBs from Binary Neutron star mergers and massive fast rotating magnetized Co cores driven by NS companion leading
+    to Binary Driven Hypernovae and Binary driven Pair SN
+  authors:
+  - Ruffini, Remo
+  - Aimuratov, Yerlan
+  - Fryer, Chris
+  - Gregoris, Daniele
+  - Hernandez, Jorge Armando Rueda
+  - Wang, Yu
+  author_count: 6
+  year: '2026'
+  journal: 46th COSPAR Scientific Assembly. Held 1-9 August
+  url: https://ui.adsabs.harvard.edu/abs/2026cosp...46.1844R/abstract

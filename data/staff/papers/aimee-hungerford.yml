@@ -26,20 +26,6 @@
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2024ApJ...961....9F/abstract
 
-- bibcode: 2023SPIE12678E..12B
-  title: The mini astrophysical MeV background observatory (MAMBO) CubeSat mission for gamma-ray astronomy
-  authors:
-  - Bloser, Peter F.
-  - Vestrand, W. Thomas
-  - Hehlen, Markus P.
-  - Katko, Kimberly K.
-  - Parker, Lucas P.
-  - Beckman, Darrel T.
-  author_count: 20
-  year: '2023'
-  journal: UV, X-Ray, and Gamma-Ray Space Instrumentation for Astronomy XXIII
-  url: https://ui.adsabs.harvard.edu/abs/2023SPIE12678E..12B/abstract
-
 - bibcode: 2023ApJ...956...19F
   title: Multimessenger Diagnostics of the Engine behind Core-collapse Supernovae
   authors:
@@ -53,6 +39,20 @@
   year: '2023'
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2023ApJ...956...19F/abstract
+
+- bibcode: 2023SPIE12678E..12B
+  title: The mini astrophysical MeV background observatory (MAMBO) CubeSat mission for gamma-ray astronomy
+  authors:
+  - Bloser, Peter F.
+  - Vestrand, W. Thomas
+  - Hehlen, Markus P.
+  - Katko, Kimberly K.
+  - Parker, Lucas P.
+  - Beckman, Darrel T.
+  author_count: 20
+  year: '2023'
+  journal: UV, X-Ray, and Gamma-Ray Space Instrumentation for Astronomy XXIII
+  url: https://ui.adsabs.harvard.edu/abs/2023SPIE12678E..12B/abstract
 
 - bibcode: 2023HEAD...2010336B
   title: 'The Mini Astrophysical MeV Background Observatory (MAMBO): A CubeSat Mission for Gamma-Ray Astronomy'

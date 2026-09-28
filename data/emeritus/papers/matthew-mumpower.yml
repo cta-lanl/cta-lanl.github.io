@@ -12,6 +12,19 @@
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260805476Y/abstract
 
+- bibcode: 2026arXiv260701228A
+  title: Beta-Particle Transport and Thermalization in Kilonova Ejecta with Detailed Atomic Microphysics
+  authors:
+  - Andalman, Zachary L.
+  - Fryer, Christopher L.
+  - Fontes, Christopher J.
+  - Mumpower, Matthew R.
+  - Wollaeger, Ryan T.
+  author_count: 5
+  year: '2026'
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260701228A/abstract
+
 - bibcode: 2026Natur.655..875R
   title: Magnetic character of the low-energy enhancement in <SUP>70</SUP>Zn
   authors:
@@ -40,26 +53,15 @@
   journal: American Astronomical Society Meeting Abstracts
   url: https://ui.adsabs.harvard.edu/abs/2026AAS...24832603B/abstract
 
-- bibcode: 2026arXiv260701228A
-  title: Beta-Particle Transport and Thermalization in Kilonova Ejecta with Detailed Atomic Microphysics
+- bibcode: 2026arXiv260604491K
+  title: 'NuGNN: a Graph Neural Network for Nuclear Reaction Network Equations'
   authors:
-  - Andalman, Zachary L.
-  - Fryer, Christopher L.
-  - Fontes, Christopher J.
-  - Mumpower, Matthew R.
-  - Wollaeger, Ryan T.
+  - Kim, C. H.
+  - Chae, K. Y.
+  - Ko, S.
+  - Mumpower, M. R.
+  - Smith, M. S.
   author_count: 5
   year: '2026'
   journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260701228A/abstract
-
-- bibcode: 2026ApJ..1004...93G
-  title: Gamma-Ray Spectra of r-process Nuclei
-  authors:
-  - Gross, Axel
-  - Cupp, Samuel
-  - Mumpower, Matthew R.
-  author_count: 3
-  year: '2026'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1004...93G/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260604491K/abstract

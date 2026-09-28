@@ -26,18 +26,18 @@
   journal: American Astronomical Society Meeting Abstracts
   url: https://ui.adsabs.harvard.edu/abs/2026AAS...24810605G/abstract
 
-- bibcode: 2026AAS...24811603G
-  title: Using XRISM to Spectroscopically Determine Neutron Star Masses and Radii
+- bibcode: 2026arXiv260701228A
+  title: Beta-Particle Transport and Thermalization in Kilonova Ejecta with Detailed Atomic Microphysics
   authors:
-  - Gomez, Thomas
-  - Zammit, Mark
-  - Fontes, Christopher
-  - Bray, Igor
-  - White, Jackson
+  - Andalman, Zachary L.
+  - Fryer, Christopher L.
+  - Fontes, Christopher J.
+  - Mumpower, Matthew R.
+  - Wollaeger, Ryan T.
   author_count: 5
   year: '2026'
-  journal: American Astronomical Society Meeting Abstracts
-  url: https://ui.adsabs.harvard.edu/abs/2026AAS...24811603G/abstract
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260701228A/abstract
 
 - bibcode: 2026AAS...24830310G
   title: How Exchange Interactions Change the Broadening in DB White Dwarf Atmospheres
@@ -53,15 +53,15 @@
   journal: American Astronomical Society Meeting Abstracts
   url: https://ui.adsabs.harvard.edu/abs/2026AAS...24830310G/abstract
 
-- bibcode: 2026arXiv260701228A
-  title: Beta-Particle Transport and Thermalization in Kilonova Ejecta with Detailed Atomic Microphysics
+- bibcode: 2026AAS...24811603G
+  title: Using XRISM to Spectroscopically Determine Neutron Star Masses and Radii
   authors:
-  - Andalman, Zachary L.
-  - Fryer, Christopher L.
-  - Fontes, Christopher J.
-  - Mumpower, Matthew R.
-  - Wollaeger, Ryan T.
+  - Gomez, Thomas
+  - Zammit, Mark
+  - Fontes, Christopher
+  - Bray, Igor
+  - White, Jackson
   author_count: 5
   year: '2026'
-  journal: arXiv e-prints
-  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260701228A/abstract
+  journal: American Astronomical Society Meeting Abstracts
+  url: https://ui.adsabs.harvard.edu/abs/2026AAS...24811603G/abstract

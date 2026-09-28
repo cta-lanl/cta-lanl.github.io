@@ -8,6 +8,15 @@
   journal: Transactions of the International Astronomical Union, Series A
   url: https://ui.adsabs.harvard.edu/abs/2026IAUTA..32..153L/abstract
 
+- bibcode: 2026cosp...46.1686L
+  title: Astrophysical Transients Across Space and Time
+  authors:
+  - Lloyd-Ronning, Nicole
+  author_count: 1
+  year: '2026'
+  journal: 46th COSPAR Scientific Assembly. Held 1-9 August
+  url: https://ui.adsabs.harvard.edu/abs/2026cosp...46.1686L/abstract
+
 - bibcode: 2026arXiv260816991L
   title: The Gamma-ray Burst Jet Energy Distribution Suggests A Quasi-universal, Weakly Magnetized Jet Evolving Over Cosmic
     Time
@@ -46,14 +55,3 @@
   year: '2026'
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..233H/abstract
-
-- bibcode: 2026ApJ..1004..129L
-  title: 'The Gamma-Ray Burst Intrinsic Duration Distribution: Progenitor Insights across Cosmic Time'
-  authors:
-  - Lloyd-Ronning, Nicole M.
-  - Bromberg, Omer
-  - Piran, Tsvi
-  author_count: 3
-  year: '2026'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..129L/abstract

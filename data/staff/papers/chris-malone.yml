@@ -1,17 +1,3 @@
-- bibcode: 2026NucFu..66h6004Y
-  title: Tritium production and processing systems for ST-E1
-  authors:
-  - Yildirim, E.
-  - Naish, J.
-  - Trueba, J.
-  - Levine, S.
-  - Kumar, A.
-  - Gohani, V. B.
-  author_count: 20
-  year: '2026'
-  journal: Nuclear Fusion
-  url: https://ui.adsabs.harvard.edu/abs/2026NucFu..66h6004Y/abstract
-
 - bibcode: 2026arXiv260806466A
   title: 'AMReX-Astrophysics Microphysics: A set of microphysics routines for astrophysical simulation codes based on the
     AMReX library'
@@ -26,6 +12,20 @@
   year: '2026'
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260806466A/abstract
+
+- bibcode: 2026NucFu..66h6004Y
+  title: Tritium production and processing systems for ST-E1
+  authors:
+  - Yildirim, E.
+  - Naish, J.
+  - Trueba, J.
+  - Levine, S.
+  - Kumar, A.
+  - Gohani, V. B.
+  author_count: 20
+  year: '2026'
+  journal: Nuclear Fusion
+  url: https://ui.adsabs.harvard.edu/abs/2026NucFu..66h6004Y/abstract
 
 - bibcode: 2025JHEP...12..143T
   title: 'Erratum: Search for boosted diphoton resonances in the 10 to 70 GeV mass range using 138 fb<SUP>−1</SUP> of 13 TeV

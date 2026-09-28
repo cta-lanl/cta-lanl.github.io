@@ -11,6 +11,20 @@
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260701228A/abstract
 
+- bibcode: 2026ApJ..1003...89F
+  title: A Comparison of Three Neodymium Atomic Data Sets for Kilonova Modeling
+  authors:
+  - Fontes, Christopher J.
+  - Vieira, Nicholas
+  - Fryer, Chris L.
+  - Kathirgamaraju, Adithan
+  - Korobkin, Oleg
+  - Ristić, Marko
+  author_count: 7
+  year: '2026'
+  journal: The Astrophysical Journal
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1003...89F/abstract
+
 - bibcode: 2026PhRvR...8b3117R
   title: Joint electromagnetic and gravitational wave inference of binary neutron star merger GW170817 using forward-modeling
     ejecta predictions
@@ -25,20 +39,6 @@
   year: '2026'
   journal: Physical Review Research
   url: https://ui.adsabs.harvard.edu/abs/2026PhRvR...8b3117R/abstract
-
-- bibcode: 2026ApJ..1003...89F
-  title: A Comparison of Three Neodymium Atomic Data Sets for Kilonova Modeling
-  authors:
-  - Fontes, Christopher J.
-  - Vieira, Nicholas
-  - Fryer, Chris L.
-  - Kathirgamaraju, Adithan
-  - Korobkin, Oleg
-  - Ristić, Marko
-  author_count: 7
-  year: '2026'
-  journal: The Astrophysical Journal
-  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1003...89F/abstract
 
 - bibcode: 2026JQSRT.35409866W
   title: Asymptotic constraints for 1D planar grey photon diffusion from linear transport with special-relativistic effects

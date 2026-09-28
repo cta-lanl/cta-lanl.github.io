@@ -1,3 +1,17 @@
+- bibcode: 2026arXiv260920799Y
+  title: Parametric Neural Quantum States for Nuclear Physics
+  authors:
+  - Yamauchi, Yukari
+  - Curry, Ryan
+  - King, Garrett B.
+  - Lawrence, Scott
+  - Somasundaram, Rahul
+  - Tews, Ingo
+  author_count: 6
+  year: '2026'
+  journal: arXiv e-prints
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260920799Y/abstract
+
 - bibcode: 2026PhLB..88040771A
   title: Constraining Hamiltonians from chiral effective field theory with neutron-star data
   authors:
@@ -54,17 +68,3 @@
   year: '2026'
   journal: arXiv e-prints
   url: https://ui.adsabs.harvard.edu/abs/2026arXiv260105999A/abstract
-
-- bibcode: 2025NatCo..16.9819S
-  title: Inferring three-nucleon couplings from multi-messenger neutron-star observations
-  authors:
-  - Somasundaram, Rahul
-  - Svensson, Isak
-  - De, Soumi
-  - Deneris, Andrew E.
-  - Dietz, Yannick
-  - Landry, Philippe
-  author_count: 8
-  year: '2025'
-  journal: Nature Communications
-  url: https://ui.adsabs.harvard.edu/abs/2025NatCo..16.9819S/abstract

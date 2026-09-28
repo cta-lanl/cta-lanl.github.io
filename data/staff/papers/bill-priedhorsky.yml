@@ -36,20 +36,6 @@
   journal: The Astrophysical Journal
   url: https://ui.adsabs.harvard.edu/abs/2008ApJ...676.1218T/abstract
 
-- bibcode: 2007AIPC..924..691B
-  title: 'Artificial variability in XMM-Newton observations of X-ray sources: M31 as a case study'
-  authors:
-  - Barnard, R.
-  - Trudolyubov, S.
-  - Haswell, C. A.
-  - Kolb, U. C.
-  - Osborne, J. P.
-  - Priedhorsky, W. H.
-  author_count: 6
-  year: '2007'
-  journal: The Multicolored Landscape of Compact Objects and Their Explosive Origins
-  url: https://ui.adsabs.harvard.edu/abs/2007AIPC..924..691B/abstract
-
 - bibcode: 2007NIMPA.579..414N
   title: 'SNM-DAT: Simulation of a heterogeneous network for nuclear border security'
   authors:
@@ -63,3 +49,17 @@
   year: '2007'
   journal: Nuclear Instruments and Methods in Physics Research A
   url: https://ui.adsabs.harvard.edu/abs/2007NIMPA.579..414N/abstract
+
+- bibcode: 2007AIPC..924..691B
+  title: 'Artificial variability in XMM-Newton observations of X-ray sources: M31 as a case study'
+  authors:
+  - Barnard, R.
+  - Trudolyubov, S.
+  - Haswell, C. A.
+  - Kolb, U. C.
+  - Osborne, J. P.
+  - Priedhorsky, W. H.
+  author_count: 6
+  year: '2007'
+  journal: The Multicolored Landscape of Compact Objects and Their Explosive Origins
+  url: https://ui.adsabs.harvard.edu/abs/2007AIPC..924..691B/abstract
