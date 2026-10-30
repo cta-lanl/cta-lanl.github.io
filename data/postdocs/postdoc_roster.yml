@@ -13,11 +13,25 @@
   sort_key: marshall, madeline
   photo: /postdocs/images/madeline-marshall.jpg
   email: mmarshall@lanl.gov
-  scholar: null
-  ads: null
-  bio: null
-  interests: null
-
+  scholar: https://scholar.google.com/citations?user=3WZ2z5gAAAAJ
+  ads: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6434-7845&sort=citation_count%20desc%2C%20bibcode%20desc&p_=0
+  bio: Madeline Marshall is a J. R. Oppenheimer Fellow in the Theoretical Design division at LANL. Her research investigates 
+    the galaxies and supermassive black holes in the early Universe, combining observations from the James Webb Space 
+    Telescope with cosmological hydrodynamical simulations. She leads two JWST programs studying the host galaxies and 
+    environments of early quasars, and is also involved in the PEARLS, GA-NIFS, and EREBUS JWST collaborations. Maddie 
+    completed her PhD at the University of Melbourne and was previously a Plaskett Fellow at the National Research Council 
+    Canada in Victoria, British Columbia.
+  interests: 
+  - Supermassive black hole growth  
+  - Quasar host galaxies and environments  
+  - James Webb Space Telescope observations  
+  - Black hole-galaxy co-evolution  
+  - Cosmological simulations and mock observations
+  university: The University of Melbourne
+  division: Theoretical Design
+  postdoc_start_year: '2024'
+  year_joined: '2024'
+  
 - slug: marko-ristic
   display_name: Marko Ristic
   sort_key: ristic, marko
